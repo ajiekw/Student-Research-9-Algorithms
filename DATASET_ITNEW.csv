@@ -1,0 +1,722 @@
+No,Nama Mahasiswa,Kampus,Prodi,Semester (1-6),Jam Tidur (0-11),Jam Bangun (0-12),Rata-Rata Screentime (0-18),Punya Pacar (Ya atau Tidak),Fekuensi Malam Minggu (0-3),Bermain Judol (Ya atau Tidak),Waktu Belajar (0-12),Pekerjaan Sampingan (Ya atau Tidak),IPK
+1,Corresponden 1,Universitas 1,Bimbingan dan Konseling Pendidikan Islam,4,23:00:00,6:00:00,2,Ya,1,Tidak,3,Tidak,3.97
+2,Corresponden 2,Universitas 2,Teknik Informatika,4,23:00:00,5:00:00,3,Tidak,1,Tidak,1,Tidak,3.5
+3,Corresponden 3,Universitas 3,Teknik Informatika,2,23:00:00,5:00:00,5,Ya,2,Tidak,5,Tidak,3.77
+4,Corresponden 4,Universitas 4,Teknologi Informasi,2,22:00:00,6:00:00,10,Ya,2,Tidak,1,Ya,3.78
+5,Corresponden 5,Universitas 5,Teknik Gigi,2,23:00:00,5:00:00,4,Tidak,2,Tidak,9,Tidak,3.63
+6,Corresponden 6,Universitas 6,Finance,6,0:00:00,8:00:00,3,Tidak,2,Tidak,3,Ya,3.43
+7,Corresponden 7,Universitas 7,Teknik Tenaga Listrik,2,1:00:00,8:00:00,15,Ya,2,Tidak,9,Ya,3.25
+8,Corresponden 8,Universitas 8,Kebidanan,4,22:00:00,5:00:00,6,Tidak,1,Tidak,3,Ya,3.8
+9,Corresponden 9,Universitas 9,Ilmu Komunikasi,2,1:00:00,5:00:00,6,Ya,1,Tidak,9,Tidak,3.95
+10,Corresponden 10,Universitas 10,Teknik Elektro,2,22:00:00,5:00:00,2,Ya,1,Tidak,1,Ya,3.64
+11,Corresponden 11,Universitas 11,Teknologi Rekayasa Otomotif,2,22:00:00,4:00:00,4,Tidak,1,Tidak,9,Ya,2.88
+12,Corresponden 12,Universitas 12,Sistem Informasi,2,0:00:00,7:00:00,6,Tidak,1,Tidak,3,Tidak,3
+13,Corresponden 13,Universitas 13,Teknik Elektronika,4,0:00:00,4:00:00,8,Tidak,1,Tidak,1,Tidak,3.33
+14,Corresponden 14,Universitas 6,IT,4,18:00:00,6:00:00,8,Ya,3,Tidak,5,Ya,3.4
+15,Corresponden 15,Universitas 14,Manajemen keuangan,4,23:00:00,5:00:00,6,Ya,3,Tidak,1,Ya,3.5
+16,Corresponden 16,Universitas 15,Akuntansi,8,23:00:00,4:00:00,7,Tidak,1,Tidak,4,Tidak,3.89
+17,Corresponden 17,Universitas 16,Psikologi,2,22:00:00,5:00:00,4,Tidak,2,Tidak,4,Tidak,3.95
+18,Corresponden 18,Universitas 17,Administrasi publik,2,1:00:00,5:00:00,1,Tidak,1,Tidak,7,Tidak,3.83
+19,Corresponden 19,Universitas 18,Pendidikan Kimia,2,22:00:00,4:00:00,4,Tidak,3,Tidak,5,Tidak,3.46
+20,Corresponden 20,Universitas 19,Teknik Elektronika,4,21:00:00,10:00:00,6,Ya,3,Tidak,5,Tidak,3.54
+21,Corresponden 21,Universitas 20,Keperawatan,2,23:00:00,4:00:00,6,Ya,2,Tidak,5,Tidak,3.8
+22,Corresponden 22,Universitas 21,Kewirausahaan,2,21:00:00,5:00:00,4,Tidak,2,Tidak,7,Tidak,3.97
+23,Corresponden 23,Universitas 22,Teknik Informatika,2,0:00:00,5:00:00,2,Tidak,1,Tidak,5,Tidak,3.93
+24,Corresponden 24,Universitas 23,Sistem Informasi,2,23:00:00,5:00:00,4,Tidak,1,Ya,5,Tidak,3.5
+25,Corresponden 25,Universitas 24,Teknik Informatika,2,0:00:00,5:00:00,6,Ya,1,Tidak,5,Ya,3.61
+26,Corresponden 26,Universitas 13,Teknik elektronika,4,23:00:00,5:00:00,7,Ya,1,Tidak,1,Ya,3.2
+27,Corresponden 27,Universitas 25,Akuntansi Perpajakan,6,23:00:00,5:00:00,4,Tidak,2,Tidak,1,Ya,3
+28,Corresponden 28,Universitas 26,PAI,3,22:00:00,5:00:00,8,Tidak,0,Tidak,3,Tidak,3.7
+29,Corresponden 29,Universitas 27,Sistem Informasi,2,21:00:00,4:00:00,6,Ya,1,Tidak,2,Tidak,3.65
+30,Corresponden 30,Universitas 11,Teknik Industri Otomotif,2,0:00:00,5:00:00,6,Tidak,1,Tidak,5,Ya,3.18
+31,Corresponden 31,Universitas 28,Hubungan Internasional,7,1:00:00,8:00:00,11,Tidak,2,Ya,1,Tidak,3.5
+32,Corresponden 32,Universitas 29,Gizi,2,22:00:00,4:00:00,5,Tidak,1,Tidak,5,Tidak,3.44
+33,Corresponden 33,Universitas 30,Kedokteran,2,23:00:00,6:00:00,10,Tidak,1,Tidak,5,Tidak,3.5
+34,Corresponden 34,Universitas 31,Farmasi,8,22:00:00,5:00:00,6,Ya,1,Tidak,9,Ya,3.64
+35,Corresponden 35,Universitas 29,Pendidikan Kepelatihan Olahraga,4,22:00:00,5:00:00,8,Tidak,1,Tidak,5,Tidak,3.75
+36,Corresponden 36,Universitas 27,Teknik Elektro,1,23:00:00,7:00:00,4,Ya,1,Tidak,1,Ya,3.5
+37,Corresponden 37,Universitas 32,Ilmu Administrasi,2,23:00:00,3:00:00,5,Ya,1,Tidak,3,Tidak,3.81
+38,Corresponden 38,Universitas 33,Public Relations,2,23:00:00,5:00:00,6,Tidak,1,Tidak,5,Tidak,3.88
+39,Corresponden 39,Universitas 34,Sistem Informasi,10,1:00:00,8:00:00,5,Ya,3,Tidak,1,Ya,3.67
+40,Corresponden 40,Universitas 18,Ilmu Komunikasi,2,23:00:00,6:00:00,4,Tidak,2,Tidak,1,Tidak,3.6
+41,Corresponden 41,Universitas 27,Teknik Informatika,2,1:00:00,6:00:00,4,Tidak,2,Tidak,3,Ya,3.25
+42,Corresponden 42,Universitas 35,Relasi Industri,6,21:00:00,5:00:00,4,Tidak,0,Tidak,7,Tidak,3.66
+43,Corresponden 43,Universitas 30,Kedokteran,2,23:00:00,5:00:00,3,Tidak,1,Tidak,5,Tidak,3.5
+44,Corresponden 44,Universitas 36,Teknik Sipil,1,21:00:00,5:00:00,9,Tidak,0,Tidak,2,Ya,3.79
+45,Corresponden 45,Universitas 37,Sistem Informasi,4,0:00:00,6:00:00,3,Tidak,1,Tidak,1,Tidak,3.5
+46,Corresponden 46,Universitas 38,Ilmu Hukum,6,21:00:00,4:00:00,4,Ya,2,Tidak,3,Ya,3.31
+47,Corresponden 47,Universitas 39,Sistem Informasi,2,23:00:00,5:00:00,3,Ya,1,Tidak,3,Ya,3.5
+48,Corresponden 48,Universitas 40,Teknik Elektro,2,22:00:00,6:00:00,10,Ya,1,Tidak,1,Tidak,3.3
+49,Corresponden 49,Universitas 6,Teknik Dirgantara,4,0:00:00,8:00:00,2,Ya,3,Tidak,7,Ya,3.85
+50,Corresponden 50,Universitas 18,Film dan Televisi,2,23:00:00,5:00:00,4,Ya,3,Tidak,3,Tidak,3.88
+51,Corresponden 51,Universitas 33,Fisioterapi,4,2:00:00,5:00:00,12,Tidak,1,Tidak,9,Tidak,3.97
+52,Corresponden 52,Universitas 41,Pendidikan Guru Sekolah Dasar,2,22:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,3.65
+53,Corresponden 53,Universitas 42,Teknik Sipil,2,23:00:00,7:00:00,4,Tidak,1,Tidak,5,Tidak,3.15
+54,Corresponden 54,Universitas 43,Teknik Informatika,2,22:00:00,7:00:00,9,Tidak,2,Tidak,5,Tidak,4
+55,Corresponden 55,Universitas 12,Fakultas Ekonomi dan Bisnis,2,23:00:00,8:00:00,10,Tidak,1,Tidak,3,Ya,2.25
+56,Corresponden 56,Universitas 30,Akuntansi,4,23:00:00,5:00:00,5,Tidak,1,Tidak,5,Tidak,3.54
+57,Corresponden 57,Universitas 33,Fisioterapi,4,22:00:00,5:00:00,5,Tidak,0,Tidak,3,Tidak,3.96
+58,Corresponden 58,Universitas 44,Keperawatan,4,23:00:00,6:00:00,12,Tidak,3,Tidak,5,Tidak,3.45
+59,Corresponden 59,Universitas 27,Teknik Elektro,2,0:00:00,5:00:00,6,Tidak,2,Tidak,3,Ya,3.88
+60,Corresponden 60,Universitas 45,Sistem Informasi,2,23:00:00,5:00:00,18,Tidak,1,Tidak,5,Tidak,4
+61,Corresponden 61,Universitas 44,Kesehatan Masyarakat,2,23:00:00,7:00:00,6,Tidak,1,Tidak,9,Tidak,3.7
+62,Corresponden 62,Universitas 46,Tekhnologi Laboratorium Media,4,0:00:00,6:00:00,2,Tidak,3,Tidak,7,Tidak,3.59
+63,Corresponden 63,Universitas 11,Teknik Kimia Polimer,2,23:00:00,3:00:00,4,Tidak,1,Tidak,9,Ya,3.5
+64,Corresponden 64,Universitas 47,Farmasi,4,22:00:00,5:00:00,3,Tidak,2,Tidak,4,Tidak,3.64
+65,Corresponden 65,Universitas 48,Hadis dan Ilmu Hadis,2,22:00:00,3:00:00,4,Tidak,3,Tidak,5,Tidak,3.55
+66,Corresponden 66,Universitas 49,Pendidikan Agama Islam,8,23:00:00,3:00:00,4,Tidak,0,Tidak,5,Tidak,3.78
+67,Corresponden 67,Universitas 11,Sistem Informasi Industri Otomotif,2,1:00:00,4:00:00,5,Tidak,1,Tidak,5,Ya,3.2
+68,Corresponden 68,Universitas 50,Manajemen,6,0:00:00,8:00:00,5,Tidak,1,Tidak,7,Ya,3.15
+69,Corresponden 69,Universitas 51,Peternakan,2,21:00:00,5:00:00,4,Tidak,1,Tidak,2,Tidak,3.8
+70,Corresponden 70,Universitas 52,Teknik Elektro,4,22:00:00,4:00:00,6,Tidak,0,Tidak,1,Tidak,3.55
+71,Corresponden 71,Universitas 53,Teknik Industri,2,22:00:00,4:00:00,5,Ya,3,Tidak,3,Ya,3.4
+72,Corresponden 72,Universitas 54,ilmu komunikasi,1,0:00:00,7:00:00,12,Ya,1,Tidak,1,Tidak,3.1
+73,Corresponden 73,Universitas 27,Teknik Informatika,2,0:00:00,6:00:00,6,Ya,2,Tidak,1,Ya,3.12
+74,Corresponden 74,Universitas 55,Pendidikan Agama Islam,3,23:00:00,5:00:00,4,Tidak,0,Tidak,3,Tidak,3.94
+75,Corresponden 75,Universitas 56,Teknik Lingkungan,2,23:00:00,6:00:00,5,Tidak,1,Tidak,4,Tidak,3.5
+76,Corresponden 76,Universitas 57,Sistem Informasi,8,22:00:00,5:00:00,12,Ya,3,Tidak,1,Ya,3.89
+77,Corresponden 77,Universitas 9,Sistem Informasi,2,1:00:00,5:00:00,5,Tidak,2,Tidak,9,Tidak,3.18
+78,Corresponden 78,Universitas 17,Ilmu administrasi,4,22:00:00,6:00:00,7,Ya,0,Tidak,1,Tidak,3.78
+79,Corresponden 79,Universitas 58,Manajemen Dakwah,2,23:00:00,5:00:00,4,Tidak,1,Tidak,3,Tidak,3.89
+80,Corresponden 80,Universitas 59,Kajian Film Televisi dan Media,2,22:00:00,5:00:00,7,Ya,1,Tidak,5,Ya,3.9
+81,Corresponden 81,Universitas 39,Pendidikan Guru Sekolah Dasar,8,22:00:00,4:00:00,6,Ya,1,Tidak,3,Ya,3.4
+82,Corresponden 82,Universitas 18,Pendidikan Gambar Bangunan,2,22:00:00,4:00:00,3,Ya,2,Tidak,3,Tidak,3.88
+83,Corresponden 83,Universitas 60,Teknik Boga,2,22:00:00,5:00:00,5,Tidak,1,Tidak,4,Tidak,3.51
+84,Corresponden 84,Universitas 38,Ilmu Hukum,6,22:00:00,5:00:00,5,Ya,1,Tidak,5,Ya,3.68
+85,Corresponden 85,Universitas 40,Hubun Internasional,6,0:00:00,4:00:00,9,Ya,3,Tidak,3,Tidak,3.35
+86,Corresponden 86,Universitas 61,Sains Data,8,23:00:00,6:00:00,4,Ya,1,Tidak,9,Tidak,3
+87,Corresponden 87,Universitas 33,Marketing Communication,6,23:00:00,6:00:00,2,Tidak,1,Tidak,5,Tidak,3
+88,Corresponden 88,Universitas 54,Ilmu Komunikasi,2,0:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.75
+89,Corresponden 89,Universitas 62,Teknik Informatika,2,1:00:00,4:00:00,4,Tidak,2,Tidak,7,Tidak,3.72
+90,Corresponden 90,Universitas 50,Komunikasi Strategis,2,2:00:00,8:00:00,6,Tidak,0,Tidak,7,Tidak,3.84
+91,Corresponden 91,Universitas 27,Matematika,2,22:00:00,5:00:00,8,Tidak,1,Tidak,5,Ya,3.63
+92,Corresponden 92,Universitas 63,Keperawatan Umum,4,22:00:00,5:00:00,3,Ya,0,Tidak,5,Tidak,3.74
+93,Corresponden 93,Universitas 64,Ilmu komunikasi,8,23:00:00,5:00:00,6,Ya,1,Tidak,7,Ya,3.64
+94,Corresponden 94,Universitas 39,Manajemen,3,23:00:00,5:00:00,6,Ya,2,Tidak,1,Ya,2.94
+95,Corresponden 95,Universitas 37,Teknik Informatika,3,23:00:00,8:00:00,4,Tidak,0,Tidak,7,Ya,3.7
+96,Corresponden 96,Universitas 38,Ilmu Administrasi Negara,7,23:00:00,6:00:00,6,Ya,3,Tidak,5,Ya,2.91
+97,Corresponden 97,Universitas 65,Pendidikan Biologi,2,22:00:00,5:00:00,5,Tidak,1,Tidak,3,Tidak,3.8
+98,Corresponden 98,Universitas 66,Ilmu Hukum,2,22:00:00,7:00:00,4,Ya,2,Tidak,5,Tidak,3.85
+99,Corresponden 99,Universitas 16,Psikologi,2,23:00:00,5:00:00,7,Tidak,2,Tidak,1,Tidak,3.75
+100,Corresponden 100,Universitas 67,Software Engineering,5,21:00:00,4:00:00,7,Tidak,1,Tidak,3,Tidak,4
+101,Corresponden 101,Universitas 21,Ilmu Komunikasi,2,21:00:00,4:00:00,3,Tidak,3,Tidak,5,Ya,3.63
+102,Corresponden 102,Universitas 68,Ekonomi Bisnis,4,0:00:00,6:00:00,5,Ya,1,Tidak,5,Tidak,3
+103,Corresponden 103,Universitas 14,Manajemen,8,18:00:00,3:00:00,6,Tidak,0,Tidak,3,Ya,3.58
+104,Corresponden 104,Universitas 33,Teknik Informatika,2,23:00:00,5:00:00,6,Tidak,2,Tidak,3,Tidak,3.3
+105,Corresponden 105,Universitas 51,Teknik Elektro,2,3:00:00,10:00:00,6,Ya,3,Tidak,3,Tidak,3.4
+106,Corresponden 106,Universitas 33,Fisioterapi,4,21:00:00,5:00:00,5,Tidak,1,Tidak,1,Tidak,3.8
+107,Corresponden 107,Universitas 69,Manajemen,8,0:00:00,5:00:00,8,Tidak,3,Ya,1,Ya,3.68
+108,Corresponden 108,Universitas 51,Ilmu Kelautan,2,22:00:00,4:00:00,6,Ya,2,Tidak,3,Ya,3.85
+109,Corresponden 109,Universitas 70,Kebidanan,4,22:00:00,4:00:00,4,Tidak,1,Tidak,3,Tidak,3.82
+110,Corresponden 110,Universitas 33,Teknik Informatika,2,22:00:00,5:00:00,4,Ya,1,Ya,7,Tidak,3.75
+111,Corresponden 111,Universitas 71,Teknik Elektro,2,23:00:00,5:00:00,3,Tidak,1,Tidak,1,Ya,3
+112,Corresponden 112,Universitas 11,Administrasi Bisnis Otomotif,2,23:00:00,8:00:00,5,Ya,1,Tidak,9,Tidak,3.93
+113,Corresponden 113,Universitas 27,Teknik Informatika,4,22:00:00,5:00:00,2,Tidak,2,Tidak,9,Tidak,3.52
+114,Corresponden 114,Universitas 25,Administrasi Perkantoran,6,22:00:00,5:00:00,4,Tidak,1,Tidak,3,Ya,3.15
+115,Corresponden 115,Universitas 54,Pendidikan Bahasa dan Sastra Indonesia,8,1:00:00,10:00:00,5,Tidak,0,Tidak,7,Tidak,4
+116,Corresponden 116,Universitas 59,Kajian Film Televisi dan Media,2,21:00:00,5:00:00,2,Ya,1,Tidak,5,Ya,3.9
+117,Corresponden 117,Universitas 36,Psikologi,8,22:00:00,4:00:00,5,Tidak,0,Tidak,7,Ya,3.67
+118,Corresponden 118,Universitas 44,Farmasi Klinik dan Komunitas,2,23:00:00,6:00:00,2,Ya,1,Tidak,5,Tidak,3.57
+119,Corresponden 119,Universitas 21,Farmasi,2,21:00:00,4:00:00,4,Tidak,3,Tidak,5,Tidak,3.78
+120,Corresponden 120,Universitas 33,Fisioterapi,4,23:00:00,4:00:00,1,Tidak,1,Tidak,1,Tidak,3.7
+121,Corresponden 121,Universitas 72,Pendidikan Bahasa Inggris,2,1:00:00,6:00:00,5,Tidak,2,Tidak,5,Tidak,3.9
+122,Corresponden 122,Universitas 59,Bisnis Digital,2,0:00:00,5:00:00,5,Tidak,1,Tidak,5,Ya,3.87
+123,Corresponden 123,Universitas 73,Ilmu Komunikasi,4,22:00:00,4:00:00,6,Tidak,1,Tidak,3,Tidak,3.6
+124,Corresponden 124,Universitas 74,Teknik Industri,2,1:00:00,5:00:00,6,Tidak,1,Tidak,5,Tidak,3.61
+125,Corresponden 125,Universitas 71,Teknik Tenaga Listrik,2,0:00:00,6:00:00,8,Tidak,1,Tidak,1,Tidak,3.15
+126,Corresponden 126,Universitas 61,Teknik Geologi,2,2:00:00,10:00:00,6,Tidak,2,Tidak,5,Tidak,3
+127,Corresponden 127,Universitas 75,Komunikasi dan Penyiaran Islam,6,23:00:00,4:00:00,5,Tidak,1,Tidak,7,Tidak,3.78
+128,Corresponden 128,Universitas 76,Teknik Industri,8,22:00:00,5:00:00,7,Ya,3,Tidak,1,Ya,3.34
+129,Corresponden 129,Universitas 77,Sistem Informasi,2,22:00:00,9:00:00,6,Ya,1,Tidak,3,Tidak,3.3
+130,Corresponden 130,Universitas 78,Manajemen,2,23:00:00,5:00:00,5,Tidak,2,Tidak,5,Tidak,3.5
+131,Corresponden 131,Universitas 27,Manejemen,2,21:00:00,5:00:00,14,Tidak,0,Tidak,1,Tidak,3.4
+132,Corresponden 132,Universitas 5,Gizi,2,23:00:00,5:00:00,4,Tidak,1,Tidak,7,Tidak,3.57
+133,Corresponden 133,Universitas 64,Pendidikan Ekonomi,8,21:00:00,6:00:00,7,Tidak,1,Tidak,3,Ya,3.55
+134,Corresponden 134,Universitas 79,Fakultas Kedokteran,5,23:00:00,5:00:00,7,Ya,2,Tidak,1,Ya,3.7
+135,Corresponden 135,Universitas 80,Pendidikan Geografi,8,22:00:00,6:00:00,2,Ya,2,Tidak,7,Ya,3.69
+136,Corresponden 136,Universitas 27,Hukum,7,22:00:00,4:00:00,8,Ya,3,Tidak,1,Ya,3.7
+137,Corresponden 137,Universitas 37,Akuntansi,2,22:00:00,5:00:00,3,Ya,2,Tidak,3,Tidak,3.45
+138,Corresponden 138,Universitas 8,Psikologi,2,23:00:00,4:00:00,3,Ya,2,Tidak,7,Tidak,3.85
+139,Corresponden 139,Universitas 51,Teknik Elektro,5,0:00:00,5:00:00,8,Ya,3,Tidak,5,Ya,3.75
+140,Corresponden 140,Universitas 54,Ilmu Komunikasi,2,22:00:00,7:00:00,6,Ya,2,Tidak,5,Tidak,3.23
+141,Corresponden 141,Universitas 81,Seni Pengolahan Patiseri,4,1:00:00,5:00:00,6,Tidak,1,Tidak,3,Ya,3.55
+142,Corresponden 142,Universitas 37,Akuntansi,3,22:00:00,5:00:00,5,Ya,3,Tidak,7,Ya,3.64
+143,Corresponden 143,Universitas 18,Rekayasa Perangkat Lunak,2,22:00:00,4:00:00,6,Tidak,1,Tidak,3,Tidak,3.94
+144,Corresponden 144,Universitas 82,Pendidikan Agama Islam,8,23:00:00,5:00:00,2,Ya,1,Tidak,9,Ya,3.85
+145,Corresponden 145,Universitas 36,Teknik Elektro,2,23:00:00,6:00:00,4,Ya,3,Tidak,4,Tidak,4
+146,Corresponden 146,Universitas 6,IT,4,0:00:00,8:00:00,8,Ya,3,Tidak,1,Tidak,3.5
+147,Corresponden 147,Universitas 61,Teknik Elektro,6,23:00:00,7:00:00,8,Ya,3,Tidak,1,Ya,3.5
+148,Corresponden 148,Universitas 74,Teknik industri,2,23:00:00,5:00:00,6,Ya,1,Tidak,5,Tidak,3.72
+149,Corresponden 149,Universitas 29,Ilmu Hukum,2,23:00:00,5:00:00,7,Ya,1,Tidak,5,Tidak,3.58
+150,Corresponden 150,Universitas 83,Hukum,2,23:00:00,7:00:00,13,Ya,0,Tidak,5,Ya,3.94
+151,Corresponden 151,Universitas 39,Pendidikan Guru Sekolah Dasar,2,23:00:00,4:00:00,5,Ya,1,Tidak,1,Ya,3.51
+152,Corresponden 152,Universitas 84,Akuntansi,2,22:00:00,5:00:00,6,Ya,1,Tidak,5,Tidak,3.54
+153,Corresponden 153,Universitas 65,Kimia,6,1:00:00,5:00:00,4,Tidak,3,Tidak,9,Ya,3.92
+154,Corresponden 154,Universitas 30,Fisioterapi,2,0:00:00,6:00:00,7,Tidak,1,Tidak,5,Tidak,3.4
+155,Corresponden 155,Universitas 50,IT,4,19:00:00,6:00:00,9,Tidak,0,Tidak,3,Ya,3.4
+156,Corresponden 156,Universitas 40,Teknik Elektro,2,22:00:00,7:00:00,4,Tidak,2,Tidak,3,Tidak,2.88
+157,Corresponden 157,Universitas 85,Teknik Informatika,6,22:00:00,5:00:00,4,Ya,1,Tidak,3,Tidak,3.95
+158,Corresponden 158,Universitas 86,Fisioterapi,2,22:00:00,6:00:00,12,Tidak,1,Tidak,9,Tidak,3.93
+159,Corresponden 159,Universitas 87,Multimedia,6,22:00:00,2:00:00,6,Ya,1,Ya,1,Ya,3.18
+160,Corresponden 160,Universitas 88,Ilmu Keperawatan,2,21:00:00,6:00:00,5,Ya,1,Tidak,3,Tidak,3
+161,Corresponden 161,Universitas 27,Manajemen,4,22:00:00,5:00:00,6,Tidak,1,Tidak,5,Ya,3.6
+162,Corresponden 162,Universitas 36,Psikologi,6,1:00:00,7:00:00,5,Tidak,3,Tidak,3,Tidak,3.75
+163,Corresponden 163,Universitas 27,Administrasi Negara,4,22:00:00,5:00:00,3,Tidak,1,Tidak,3,Ya,3.77
+164,Corresponden 164,Universitas 28,Akuntansi,8,21:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.87
+165,Corresponden 165,Universitas 89,perhotelan,4,23:00:00,7:00:00,11,Ya,2,Tidak,3,Tidak,3.6
+166,Corresponden 166,Universitas 51,Teknik Elektro,2,1:00:00,7:00:00,2,Tidak,2,Tidak,5,Tidak,3.4
+167,Corresponden 167,Universitas 90,Teknologi Rekayasa Perangkat Lunak,4,23:00:00,5:00:00,6,Tidak,1,Tidak,9,Tidak,3.76
+168,Corresponden 168,Universitas 35,Relasi Industri,8,23:00:00,5:00:00,6,Tidak,0,Tidak,7,Tidak,3.81
+169,Corresponden 169,Universitas 31,Pendidikan Guru Sekolah Dasar,7,21:00:00,5:00:00,6,Ya,2,Tidak,9,Ya,3.8
+170,Corresponden 170,Universitas 27,Teknik Industri,2,1:00:00,7:00:00,3,Ya,3,Tidak,5,Ya,3.59
+171,Corresponden 171,Universitas 91,Teknik Sipil,6,2:00:00,7:00:00,6,Tidak,2,Tidak,9,Tidak,3.75
+172,Corresponden 172,Universitas 27,Sistem Informasi,2,1:00:00,5:00:00,8,Tidak,1,Tidak,4,Tidak,3.53
+173,Corresponden 173,Universitas 29,Teknik Informatika,2,1:00:00,8:00:00,9,Ya,2,Tidak,5,Tidak,3.35
+174,Corresponden 174,Universitas 92,Administrasi Bisnis,6,23:00:00,4:00:00,7,Tidak,1,Tidak,5,Tidak,3.74
+175,Corresponden 175,Universitas 92,Administrasi Bisnis,6,23:00:00,4:00:00,7,Tidak,1,Tidak,5,Tidak,3.74
+176,Corresponden 176,Universitas 37,Teknologi Informasi,2,23:00:00,6:00:00,4,Tidak,2,Tidak,3,Ya,3.41
+177,Corresponden 177,Universitas 93,S1 Software Engineering,5,2:00:00,9:00:00,8,Tidak,0,Tidak,1,Tidak,3.83
+178,Corresponden 178,Universitas 94,Fakultas teknik,4,23:00:00,5:00:00,8,Ya,3,Tidak,3,Ya,3.71
+179,Corresponden 179,Universitas 27,Fakultas Hukum,8,19:00:00,6:00:00,8,Ya,2,Tidak,1,Ya,3.92
+180,Corresponden 180,Universitas 95,Hubungan internasional,2,22:00:00,4:00:00,6,Tidak,3,Tidak,9,Tidak,2.8
+181,Corresponden 181,Universitas 64,Pendidikan Agama Islam,6,22:00:00,4:00:00,5,Tidak,2,Tidak,3,Tidak,3.76
+182,Corresponden 182,Universitas 96,Akuakultur,6,23:00:00,5:00:00,4,Tidak,1,Tidak,7,Ya,3.48
+183,Corresponden 183,Universitas 2,Teknik Informatika,2,2:00:00,9:00:00,12,Ya,2,Tidak,1,Tidak,3.67
+184,Corresponden 184,Universitas 97,Teknik Industri,2,1:00:00,5:00:00,3,Ya,2,Tidak,5,Tidak,3.75
+185,Corresponden 185,Universitas 98,Ekonomi,8,22:00:00,6:00:00,5,Tidak,3,Tidak,3,Tidak,3.65
+186,Corresponden 186,Universitas 36,Antropologi Sosial,8,22:00:00,5:00:00,4,Tidak,0,Tidak,7,Ya,3.69
+187,Corresponden 187,Universitas 4,Teknologi Informasi,2,22:00:00,5:00:00,2,Tidak,1,Tidak,1,Tidak,3.78
+188,Corresponden 188,Universitas 71,Teknik Mesin,2,23:00:00,6:00:00,5,Tidak,1,Tidak,3,Tidak,3.35
+189,Corresponden 189,Universitas 16,Biologi,2,23:00:00,5:00:00,4,Ya,1,Tidak,3,Tidak,3.78
+190,Corresponden 190,Universitas 32,Ekonomi Syariah,2,22:00:00,4:00:00,4,Ya,2,Tidak,3,Ya,3.72
+191,Corresponden 191,Universitas 29,Teknik Informatika,2,23:00:00,5:00:00,7,Ya,1,Tidak,5,Ya,3.72
+192,Corresponden 192,Universitas 61,Biologi,2,23:00:00,7:00:00,5,Tidak,2,Tidak,0,Tidak,2.78
+193,Corresponden 193,Universitas 37,Teknologi Informasi,3,23:00:00,5:00:00,5,Tidak,0,Tidak,7,Ya,3.15
+194,Corresponden 194,Universitas 84,Teknik Sipil,4,0:00:00,4:00:00,5,Ya,1,Ya,3,Ya,2.95
+195,Corresponden 195,Universitas 99,Pendidikan Bahasa Inggris,8,23:00:00,7:00:00,6,Tidak,1,Tidak,5,Tidak,3.5
+196,Corresponden 196,Universitas 6,Sistem Informasi,2,22:00:00,5:00:00,5,Tidak,2,Tidak,8,Tidak,3.25
+197,Corresponden 197,Universitas 9,Psikologi,2,23:00:00,5:00:00,6,Tidak,2,Tidak,5,Tidak,3.42
+198,Corresponden 198,Universitas 38,Ilmu Administrasi Negara,2,23:00:00,4:00:00,3,Tidak,0,Tidak,3,Ya,3
+199,Corresponden 199,Universitas 74,Psikologi,8,2:00:00,11:00:00,4,Ya,1,Tidak,3,Ya,3.6
+200,Corresponden 200,Universitas 100,Syariah,4,22:00:00,4:00:00,5,Tidak,1,Tidak,5,Tidak,3.85
+201,Corresponden 201,Universitas 51,Pendidikan Bahasa Inggris,2,0:00:00,5:00:00,12,Tidak,0,Tidak,1,Tidak,3.65
+202,Corresponden 202,Universitas 101,Komunikasi Digital dan Media,2,0:00:00,4:00:00,6,Tidak,1,Tidak,1,Ya,3.53
+203,Corresponden 203,Universitas 74,Sistem Informasi,2,23:00:00,5:00:00,4,Tidak,2,Tidak,6,Tidak,3.92
+204,Corresponden 204,Universitas 18,Logistik Kelautan,2,21:00:00,4:00:00,4,Tidak,3,Tidak,3,Tidak,3.66
+205,Corresponden 205,Universitas 27,Teknik Informatika,2,0:00:00,6:00:00,4,Tidak,2,Tidak,3,Ya,2.9
+206,Corresponden 206,Universitas 28,Teknik Industri,7,23:00:00,8:00:00,11,Ya,2,Tidak,1,Tidak,3.2
+207,Corresponden 207,Universitas 102,Teknik Sipil,8,21:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.25
+208,Corresponden 208,Universitas 5,Teknik Elektromedik,2,0:00:00,6:00:00,5,Tidak,1,Tidak,1,Tidak,3.54
+209,Corresponden 209,Universitas 65,Kimia,2,1:00:00,7:00:00,8,Tidak,0,Tidak,9,Tidak,3.57
+210,Corresponden 210,Universitas 103,Peternakan,7,23:00:00,3:00:00,3,Tidak,2,Tidak,3,Ya,4
+211,Corresponden 211,Universitas 104,Teknik Kimia,6,22:00:00,4:00:00,7,Tidak,1,Tidak,5,Tidak,3.87
+212,Corresponden 212,Universitas 6,Film,4,23:00:00,7:00:00,2,Tidak,1,Tidak,5,Tidak,3.85
+213,Corresponden 213,Universitas 105,Pendidikan Sejarah,2,22:00:00,4:00:00,5,Tidak,2,Tidak,5,Tidak,4
+214,Corresponden 214,Universitas 5,Analisis Farmasi dan Makanan,2,2:00:00,9:00:00,6,Tidak,1,Tidak,9,Ya,3.89
+215,Corresponden 215,Universitas 64,Pendidikan Agama Islam,6,23:00:00,4:00:00,4,Tidak,1,Tidak,5,Tidak,3.82
+216,Corresponden 216,Universitas 106,Ilmu Keperawatan,8,23:00:00,7:00:00,6,Tidak,1,Tidak,5,Tidak,3.86
+217,Corresponden 217,Universitas 5,Teknologi Rekayasa Elektromedik,2,2:00:00,10:00:00,6,Tidak,1,Tidak,9,Tidak,3
+218,Corresponden 218,Universitas 27,Sistem Infomarsi,2,0:00:00,5:00:00,4,Ya,3,Tidak,1,Ya,3.48
+219,Corresponden 219,Universitas 64,pendidikan agama islam,3,22:00:00,5:00:00,6,Tidak,1,Tidak,1,Ya,3.49
+220,Corresponden 220,Universitas 42,Arsitektur,2,2:00:00,7:00:00,4,Tidak,2,Tidak,5,Tidak,3.13
+221,Corresponden 221,Universitas 33,Akuntansi,4,23:00:00,3:00:00,6,Ya,3,Tidak,3,Tidak,3.25
+222,Corresponden 222,Universitas 64,Pendidikan Agama Islam,8,19:00:00,3:00:00,6,Ya,2,Tidak,1,Ya,3.84
+223,Corresponden 223,Universitas 27,Manajemen Sumber Daya Manusia,6,22:00:00,6:00:00,5,Tidak,2,Tidak,5,Ya,3.33
+224,Corresponden 224,Universitas 107,Teknik Informatika,8,23:00:00,6:00:00,6,Tidak,2,Tidak,3,Tidak,3.69
+225,Corresponden 225,Universitas 2,Sistem Komputer,4,22:00:00,3:00:00,4,Tidak,1,Tidak,5,Ya,3.6
+226,Corresponden 226,Universitas 64,Pendidikan Agama Islam,6,22:00:00,4:00:00,4,Tidak,2,Tidak,5,Ya,3.9
+227,Corresponden 227,Universitas 27,Teknik Informatika,4,22:00:00,4:00:00,5,Ya,2,Tidak,3,Ya,3.57
+228,Corresponden 228,Universitas 39,Ilmu Hukum,4,22:00:00,5:00:00,2,Tidak,1,Tidak,3,Ya,3
+229,Corresponden 229,Universitas 71,Teknik Tenaga Listrik,4,23:00:00,5:00:00,6,Ya,3,Tidak,7,Tidak,3.49
+230,Corresponden 230,Universitas 71,Teknik Tenaga Listrik,4,23:00:00,5:00:00,5,Ya,3,Tidak,3,Ya,3.49
+231,Corresponden 231,Universitas 102,Kimia,4,22:00:00,5:00:00,3,Ya,2,Tidak,5,Ya,3.65
+232,Corresponden 232,Universitas 108,Teknik Elektro,8,23:00:00,5:00:00,5,Tidak,0,Tidak,7,Ya,3.15
+233,Corresponden 233,Universitas 64,Pendidikan Agama Islam,3,23:00:00,6:00:00,9,Tidak,1,Tidak,1,Tidak,3.3
+234,Corresponden 234,Universitas 70,Biologi,2,22:00:00,4:00:00,4,Ya,1,Tidak,1,Tidak,3.7
+235,Corresponden 235,Universitas 5,Farmasi,2,22:00:00,5:00:00,4,Ya,2,Tidak,3,Tidak,3.37
+236,Corresponden 236,Universitas 109,Manajemen,6,23:00:00,5:00:00,2,Tidak,2,Tidak,7,Tidak,3.8
+237,Corresponden 237,Universitas 17,Manajemen,4,23:00:00,4:00:00,3,Ya,2,Tidak,5,Ya,3.4
+238,Corresponden 238,Universitas 13,Teknologi Industri,4,22:00:00,5:00:00,9,Ya,2,Tidak,5,Tidak,3.7
+239,Corresponden 239,Universitas 46,Teknologi Laboratorium Medis,2,22:00:00,6:00:00,8,Tidak,1,Tidak,5,Tidak,3.7
+240,Corresponden 240,Universitas 110,Akuntansi,6,1:00:00,5:00:00,4,Tidak,0,Tidak,7,Ya,4
+241,Corresponden 241,Universitas 11,Sistem Informasi,2,23:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,3
+242,Corresponden 242,Universitas 64,Hukum,4,22:00:00,3:00:00,4,Tidak,0,Tidak,5,Tidak,3.91
+243,Corresponden 243,Universitas 111,Teknik Mesin,8,22:00:00,5:00:00,7,Tidak,2,Tidak,3,Tidak,3.67
+244,Corresponden 244,Universitas 33,Rekayasa Sipil,4,0:00:00,6:00:00,8,Tidak,1,Tidak,5,Tidak,3.85
+245,Corresponden 245,Universitas 36,Arsitektur,8,22:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.5
+246,Corresponden 246,Universitas 68,Perjalanan Wisata,4,22:00:00,6:00:00,5,Tidak,3,Tidak,3,Tidak,3.75
+247,Corresponden 247,Universitas 112,Teknik Informatika,2,23:00:00,5:00:00,5,Tidak,1,Tidak,3,Ya,3.65
+248,Corresponden 248,Universitas 113,Akuntansi,2,23:00:00,7:00:00,5,Tidak,1,Tidak,7,Tidak,3.76
+249,Corresponden 249,Universitas 61,Teknik Telekomunikasi,2,22:00:00,6:00:00,4,Tidak,0,Tidak,3,Tidak,3
+250,Corresponden 250,Universitas 74,ilmu komunikasi,4,23:00:00,8:00:00,5,Ya,3,Tidak,1,Ya,3.3
+251,Corresponden 251,Universitas 114,Teknik Mesin,2,23:00:00,4:00:00,2,Tidak,3,Tidak,5,Tidak,3.48
+252,Corresponden 252,Universitas 16,Psikologi,2,22:00:00,4:00:00,4,Tidak,1,Tidak,4,Tidak,3.75
+253,Corresponden 253,Universitas 13,Teknik Elektronika,4,22:00:00,4:00:00,7,Ya,3,Tidak,1,Tidak,3.19
+254,Corresponden 254,Universitas 115,Pendidikan Guru Sekolah Dasar,2,22:00:00,5:00:00,3,Tidak,1,Tidak,9,Tidak,3.94
+255,Corresponden 255,Universitas 18,Pendidikan Kimia,2,23:00:00,4:00:00,5,Tidak,1,Tidak,5,Tidak,3.54
+256,Corresponden 256,Universitas 6,Bisnis Internasional,4,3:00:00,9:00:00,9,Ya,3,Ya,1,Tidak,3.1
+257,Corresponden 257,Universitas 33,Teknik Informatika,2,0:00:00,5:00:00,6,Tidak,2,Tidak,5,Tidak,3.8
+258,Corresponden 258,Universitas 50,Teknik Elektro,2,23:00:00,6:00:00,6,Tidak,2,Tidak,5,Tidak,2.8
+259,Corresponden 259,Universitas 116,Ilmu Komunikasi,2,23:00:00,5:00:00,3,Tidak,1,Tidak,7,Tidak,3.82
+260,Corresponden 260,Universitas 64,Psikologi,2,23:00:00,5:00:00,6,Tidak,0,Tidak,7,Tidak,3.82
+261,Corresponden 261,Universitas 18,Teknik Elektro,2,22:00:00,5:00:00,4,Ya,1,Tidak,7,Tidak,3.7
+262,Corresponden 262,Universitas 117,Teknik Industri,4,2:00:00,8:00:00,8,Tidak,3,Ya,1,Ya,3.2
+263,Corresponden 263,Universitas 21,Akuntansi,2,21:00:00,4:00:00,5,Tidak,1,Tidak,5,Tidak,3.68
+264,Corresponden 264,Universitas 6,Teknik Biomedis,4,23:00:00,5:00:00,1,Ya,1,Tidak,5,Tidak,3.8
+265,Corresponden 265,Universitas 13,Teknik elektronika,4,23:00:00,5:00:00,5,Ya,3,Tidak,1,Tidak,3.3
+266,Corresponden 266,Universitas 101,Akuntansi,2,1:00:00,5:00:00,5,Tidak,1,Tidak,12,Tidak,3.94
+267,Corresponden 267,Universitas 118,Perpustakaan dan Informasi Islam,8,1:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,3.58
+268,Corresponden 268,Universitas 119,Manajemen Bisnis Syari'ah,4,23:00:00,5:00:00,6,Tidak,1,Tidak,3,Ya,3.75
+269,Corresponden 269,Universitas 102,Pendidikan Bahasa Mandarin,2,0:00:00,5:00:00,5,Tidak,1,Tidak,5,Ya,3.75
+270,Corresponden 270,Universitas 120,Ilmu Hukum,2,23:00:00,7:00:00,4,Ya,2,Tidak,3,Tidak,3.83
+271,Corresponden 271,Universitas 17,Sosial Ekonomi Pertanian,2,23:00:00,4:00:00,7,Ya,1,Tidak,5,Tidak,3.8
+272,Corresponden 272,Universitas 64,pendidikan agama Islam,3,23:00:00,6:00:00,4,Tidak,0,Tidak,1,Ya,3.82
+273,Corresponden 273,Universitas 27,Teknik Informatika,2,1:00:00,5:00:00,6,Ya,2,Tidak,3,Tidak,3.39
+274,Corresponden 274,Universitas 19,manajemen,7,1:00:00,10:00:00,6,Ya,1,Ya,1,Tidak,3.1
+275,Corresponden 275,Universitas 121,Sistem dan Teknologi Informasi,7,21:00:00,4:00:00,3,Tidak,1,Tidak,1,Ya,3.76
+276,Corresponden 276,Universitas 33,Teknik Informatika,2,22:00:00,6:00:00,4,Ya,1,Tidak,7,Tidak,3.5
+277,Corresponden 277,Universitas 25,Akuntansi Perpajakan,6,22:00:00,5:00:00,4,Tidak,2,Tidak,5,Ya,3.3
+278,Corresponden 278,Universitas 18,Bisnis Digital,2,22:00:00,4:00:00,4,Tidak,0,Tidak,7,Tidak,4
+279,Corresponden 279,Universitas 33,Teknik Informatika,2,23:00:00,5:00:00,3,Tidak,1,Tidak,1,Ya,3.67
+280,Corresponden 280,Universitas 122,Komunikasi dan Penyiaran Islam,2,22:00:00,4:00:00,2,Ya,1,Tidak,4,Ya,3.55
+281,Corresponden 281,Universitas 67,Software Engineering,5,22:00:00,5:00:00,7,Ya,2,Tidak,3,Tidak,4.5
+282,Corresponden 282,Universitas 11,Teknologi Rekayasa Otomotif,2,22:00:00,3:00:00,4,Tidak,1,Tidak,5,Ya,2.85
+283,Corresponden 283,Universitas 64,Pendidikan Agama Islam,2,23:00:00,4:00:00,8,Tidak,1,Tidak,1,Tidak,3.66
+284,Corresponden 284,Universitas 116,Hukum,2,0:00:00,3:00:00,4,Ya,1,Tidak,5,Tidak,3.99
+285,Corresponden 285,Universitas 123,Manajemen Fakultas Ekonomi Bisnis,2,1:00:00,7:00:00,6,Tidak,1,Tidak,9,Tidak,3.48
+286,Corresponden 286,Universitas 61,Farmasi,2,0:00:00,5:00:00,5,Ya,1,Tidak,7,Tidak,3.68
+287,Corresponden 287,Universitas 39,Ilmu Hukum,4,0:00:00,7:00:00,6,Ya,2,Tidak,5,Ya,3.6
+288,Corresponden 288,Universitas 43,Teknik Informasi,8,0:00:00,0:00:00,12,Ya,3,Tidak,2,Ya,4
+289,Corresponden 289,Universitas 124,Pendidikan Guru Sekolah Dasar,6,23:00:00,5:00:00,2,Tidak,2,Tidak,5,Tidak,3.65
+290,Corresponden 290,Universitas 43,Teknik Informatika,2,23:00:00,4:00:00,2,Tidak,1,Tidak,3,Tidak,4
+291,Corresponden 291,Universitas 17,Kebidanan,2,22:00:00,5:00:00,3,Tidak,1,Tidak,9,Tidak,3.8
+292,Corresponden 292,Universitas 36,Ilmu Keperawatan,2,22:00:00,5:00:00,5,Tidak,1,Tidak,5,Tidak,3.42
+293,Corresponden 293,Universitas 35,Relasi Industri,6,23:00:00,4:00:00,6,Ya,0,Tidak,7,Ya,3.39
+294,Corresponden 294,Universitas 2,Teknik Informatika,4,20:00:00,4:00:00,1,Ya,1,Tidak,9,Ya,3.89
+295,Corresponden 295,Universitas 33,Ilmu Hukum,2,21:00:00,3:00:00,4,Ya,1,Tidak,5,Tidak,3.7
+296,Corresponden 296,Universitas 125,Kesehatan Gigi,4,22:00:00,4:00:00,5,Ya,1,Tidak,5,Tidak,3.22
+297,Corresponden 297,Universitas 13,Teknik Elektronika,4,23:00:00,5:00:00,5,Ya,3,Tidak,3,Tidak,3.5
+298,Corresponden 298,Universitas 45,Akutansi,2,0:00:00,8:00:00,5,Tidak,1,Tidak,5,Ya,3.89
+299,Corresponden 299,Universitas 74,Sistem Informasi,2,0:00:00,5:00:00,3,Tidak,2,Tidak,3,Tidak,3.95
+300,Corresponden 300,Universitas 17,Arsitektur,4,23:00:00,9:00:00,2,Tidak,3,Tidak,5,Tidak,3.78
+301,Corresponden 301,Universitas 96,Proteksi Tanaman,2,2:00:00,5:00:00,5,Tidak,3,Tidak,1,Tidak,3.65
+302,Corresponden 302,Universitas 39,Ilmu Hukum,4,22:00:00,6:00:00,6,Ya,1,Tidak,3,Ya,3.25
+303,Corresponden 303,Universitas 43,Teknok Informasi,1,0:00:00,4:00:00,12,Ya,2,Tidak,7,Ya,2.75
+304,Corresponden 304,Universitas 13,Teknik Elektronika,4,2:00:00,5:00:00,8,Ya,3,Ya,1,Ya,3.2
+305,Corresponden 305,Universitas 27,Ilmu Komunikasi,2,0:00:00,6:00:00,5,Ya,1,Tidak,4,Tidak,3.35
+306,Corresponden 306,Universitas 126,Sistem Informasi,8,3:00:00,5:00:00,6,Ya,3,Ya,9,Ya,3.89
+307,Corresponden 307,Universitas 5,Teknik Elektromedik,2,1:00:00,8:00:00,6,Ya,2,Tidak,5,Ya,3.4
+308,Corresponden 308,Universitas 127,Manajemen Informasi Komunikasi,2,0:00:00,5:00:00,9,Tidak,0,Tidak,5,Ya,3.5
+309,Corresponden 309,Universitas 128,Kesehatan Masyarakat,8,22:00:00,5:00:00,6,Ya,1,Tidak,7,Tidak,3.78
+310,Corresponden 310,Universitas 4,Teknologi Informasi,2,23:00:00,9:00:00,3,Tidak,1,Tidak,1,Ya,4
+311,Corresponden 311,Universitas 129,Ilmu komunikasi,2,21:00:00,4:00:00,5,Tidak,1,Tidak,2,Tidak,3.83
+312,Corresponden 312,Universitas 130,Keperawatan,4,22:00:00,5:00:00,4,Tidak,2,Tidak,5,Tidak,3.97
+313,Corresponden 313,Universitas 18,Ilmu Hukum,2,23:00:00,5:00:00,5,Tidak,1,Tidak,7,Tidak,3.47
+314,Corresponden 314,Universitas 131,Kedokteran,2,23:00:00,6:00:00,6,Ya,2,Tidak,3,Tidak,3.8
+315,Corresponden 315,Universitas 51,Statistika,2,0:00:00,3:00:00,4,Tidak,1,Tidak,3,Tidak,3.51
+316,Corresponden 316,Universitas 15,Kehutanan,2,22:00:00,8:00:00,6,Tidak,1,Tidak,3,Tidak,3.14
+317,Corresponden 317,Universitas 132,Agribisnis,2,1:00:00,7:00:00,6,Tidak,2,Tidak,5,Ya,3.5
+318,Corresponden 318,Universitas 87,Teknik Telekomunikasi,4,23:00:00,5:00:00,5,Ya,1,Tidak,3,Tidak,3.15
+319,Corresponden 319,Universitas 98,Psikologi,8,1:00:00,8:00:00,4,Ya,1,Tidak,3,Tidak,3.7
+320,Corresponden 320,Universitas 9,Manajemen,2,23:00:00,5:00:00,5,Tidak,3,Tidak,5,Tidak,3.7
+321,Corresponden 321,Universitas 21,Pendidikan Guru Sekolah Dasar,2,22:00:00,5:00:00,3,Tidak,2,Tidak,5,Tidak,3.55
+322,Corresponden 322,Universitas 133,Teknik Informatika,2,22:00:00,6:00:00,4,Tidak,1,Tidak,7,Ya,3.5
+323,Corresponden 323,Universitas 134,Psikologi,2,2:00:00,6:00:00,5,Ya,1,Tidak,1,Ya,3.8
+324,Corresponden 324,Universitas 50,Film dan Animasi,6,23:00:00,4:00:00,2,Tidak,1,Tidak,5,Ya,3.42
+325,Corresponden 325,Universitas 112,Teknik Informatika,2,0:00:00,4:00:00,3,Tidak,1,Tidak,1,Tidak,3.55
+326,Corresponden 326,Universitas 40,Teknik Elektro,2,22:00:00,4:00:00,2,Tidak,1,Tidak,4,Ya,3.97
+327,Corresponden 327,Universitas 135,Seni Patiseri,4,1:00:00,10:00:00,2,Ya,3,Tidak,9,Tidak,3.76
+328,Corresponden 328,Universitas 136,Ilmu Hukum,8,2:00:00,5:00:00,5,Tidak,0,Tidak,7,Tidak,3.77
+329,Corresponden 329,Universitas 11,Sistem Informasi Industri,2,23:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,3.7
+330,Corresponden 330,Universitas 36,Fisika,2,1:00:00,4:00:00,3,Ya,3,Tidak,11,Tidak,3.65
+331,Corresponden 331,Universitas 117,Kedokteran,2,23:00:00,4:00:00,9,Ya,3,Tidak,5,Tidak,3.6
+332,Corresponden 332,Universitas 43,Teknik Informasi,2,22:00:00,5:00:00,5,Tidak,0,Tidak,1,Tidak,3.5
+333,Corresponden 333,Universitas 7,Matematika,8,22:00:00,6:00:00,6,Tidak,1,Tidak,3,Ya,4
+334,Corresponden 334,Universitas 37,Sistem Informasi,4,0:00:00,4:00:00,10,Tidak,2,Tidak,3,Tidak,3.8
+335,Corresponden 335,Universitas 51,Statistika,2,22:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.8
+336,Corresponden 336,Universitas 8,Kebidanan,4,22:00:00,4:00:00,3,Tidak,1,Tidak,3,Ya,4
+337,Corresponden 337,Universitas 27,Manajemen,8,22:00:00,5:00:00,6,Ya,1,Tidak,1,Ya,3.5
+338,Corresponden 338,Universitas 64,Teknik Industri,2,22:00:00,5:00:00,3,Tidak,0,Tidak,5,Tidak,3.34
+339,Corresponden 339,Universitas 33,Desain komunikasi visual,4,22:00:00,5:00:00,4,Ya,1,Tidak,1,Ya,3.5
+340,Corresponden 340,Universitas 74,Ilmu komunikasi,2,23:00:00,8:00:00,4,Ya,2,Tidak,3,Tidak,3.46
+341,Corresponden 341,Universitas 74,Psikologi,2,22:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.83
+342,Corresponden 342,Universitas 137,Transportasi,2,21:00:00,4:00:00,3,Tidak,1,Tidak,4,Ya,3.65
+343,Corresponden 343,Universitas 122,Teknik Informatika,2,23:00:00,5:00:00,3,Ya,2,Tidak,1,Ya,3.55
+344,Corresponden 344,Universitas 27,Manajemen,2,22:00:00,5:00:00,6,Tidak,1,Tidak,1,Ya,3.47
+345,Corresponden 345,Universitas 61,Teknik Elektro,6,1:00:00,8:00:00,6,Tidak,2,Tidak,5,Ya,3
+346,Corresponden 346,Universitas 138,Manajemen Bisnis Syariah,2,23:00:00,4:00:00,8,Tidak,1,Tidak,4,Ya,3.75
+347,Corresponden 347,Universitas 5,Teknik Elektromedik,2,22:00:00,5:00:00,5,Ya,1,Tidak,5,Ya,3.66
+348,Corresponden 348,Universitas 9,Manajemen,2,20:00:00,6:00:00,1,Tidak,1,Tidak,9,Tidak,3.58
+349,Corresponden 349,Universitas 97,Teknik Metalurgi,2,2:00:00,5:00:00,5,Tidak,1,Tidak,4,Tidak,3.68
+350,Corresponden 350,Universitas 105,Pendidikan Sejarah,2,22:00:00,5:00:00,4,Tidak,1,Tidak,5,Tidak,4
+351,Corresponden 351,Universitas 61,Teknik Informatika,2,22:00:00,4:00:00,12,Tidak,1,Tidak,5,Tidak,3.68
+352,Corresponden 352,Universitas 139,Teknik Perminyakan,2,23:00:00,4:00:00,6,Tidak,2,Tidak,3,Ya,3.5
+353,Corresponden 353,Universitas 74,Psikologi,2,20:00:00,7:00:00,3,Ya,2,Tidak,7,Ya,3.7
+354,Corresponden 354,Universitas 140,Computer Science,8,23:00:00,4:00:00,6,Tidak,1,Tidak,1,Ya,3.15
+355,Corresponden 355,Universitas 141,Kebidanan,4,22:00:00,5:00:00,2,Tidak,1,Tidak,3,Ya,3.9
+356,Corresponden 356,Universitas 139,Ilmu Komunikasi,4,3:00:00,9:00:00,8,Ya,3,Ya,1,Tidak,3
+357,Corresponden 357,Universitas 50,IT,4,19:00:00,7:00:00,8,Ya,3,Tidak,5,Ya,3.8
+358,Corresponden 358,Universitas 118,Perpustakaan dan Informasi Islam,8,0:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,3.65
+359,Corresponden 359,Universitas 65,Pendidikan Matematika,4,1:00:00,4:00:00,5,Ya,2,Tidak,7,Ya,3.88
+360,Corresponden 360,Universitas 142,Teknik Tekstil,2,23:00:00,6:00:00,6,Ya,2,Tidak,9,Ya,3.24
+361,Corresponden 361,Universitas 27,Pendidikan Pancasila dan Kewarganegaraan,4,0:00:00,5:00:00,6,Tidak,2,Tidak,5,Ya,3.58
+362,Corresponden 362,Universitas 143,Sastra Inggris,3,23:00:00,6:00:00,5,Tidak,1,Tidak,3,Ya,2.96
+363,Corresponden 363,Universitas 144,Teknik Industri,8,22:00:00,8:00:00,6,Tidak,1,Tidak,7,Ya,3.93
+364,Corresponden 364,Universitas 103,Administrasi Perkantoran,5,21:00:00,4:00:00,6,Ya,2,Tidak,9,Tidak,3.49
+365,Corresponden 365,Universitas 51,Ilmu Komunikasi,2,23:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.54
+366,Corresponden 366,Universitas 145,Psikologi,8,19:00:00,5:00:00,7,Tidak,2,Tidak,3,Ya,3.76
+367,Corresponden 367,Universitas 146,Ilmu Gizi,2,23:00:00,4:00:00,6,Ya,1,Tidak,9,Tidak,3.67
+368,Corresponden 368,Universitas 36,Akuntansi,8,19:00:00,5:00:00,7,Tidak,1,Tidak,3,Tidak,3.74
+369,Corresponden 369,Universitas 147,Hukum Internasional,4,22:00:00,6:00:00,9,Ya,3,Tidak,3,Tidak,3.5
+370,Corresponden 370,Universitas 15,Manajemen Sumberdaya Akuatik,2,23:00:00,6:00:00,6,Ya,1,Tidak,3,Tidak,3.6
+371,Corresponden 371,Universitas 61,Desain dan Komunikasi Visual,2,2:00:00,5:00:00,3,Tidak,1,Tidak,3,Tidak,3.6
+372,Corresponden 372,Universitas 40,Teknik Elektro,2,23:00:00,4:00:00,5,Ya,2,Tidak,1,Tidak,3
+373,Corresponden 373,Universitas 51,Pendidikan Guru Sekolah Dasar,6,23:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.9
+374,Corresponden 374,Universitas 11,Teknik Kimia Polimer,2,23:00:00,6:00:00,10,Tidak,0,Tidak,5,Ya,4
+375,Corresponden 375,Universitas 15,Kehutanan,2,23:00:00,6:00:00,4,Tidak,1,Tidak,3,Tidak,3.78
+376,Corresponden 376,Universitas 28," Ilmu Bedah Toraks, Kardiak, dan Vaskular ",2,22:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,2.69
+377,Corresponden 377,Universitas 4,Ilmu komunikasi broadcasting,2,21:00:00,4:00:00,2,Tidak,2,Ya,1,Tidak,4
+378,Corresponden 378,Universitas 74,Sistem Informasi,12,23:00:00,6:00:00,5,Ya,2,Tidak,7,Ya,3.4
+379,Corresponden 379,Universitas 148,Teknik Informatika,8,1:00:00,5:00:00,6,Tidak,1,Tidak,1,Ya,3.85
+380,Corresponden 380,Universitas 51,Hukum,4,0:00:00,6:00:00,6,Tidak,1,Tidak,5,Tidak,3.8
+381,Corresponden 381,Universitas 17,Manajemen,8,22:00:00,6:00:00,6,Ya,3,Tidak,1,Ya,3.65
+382,Corresponden 382,Universitas 27,Teknik Informatika,2,23:00:00,5:00:00,3,Tidak,2,Tidak,9,Tidak,3.27
+383,Corresponden 383,Universitas 148,Informatika,4,0:00:00,5:00:00,4,Tidak,0,Tidak,5,Tidak,3.2
+384,Corresponden 384,Universitas 33,Ilmu komunikasi,2,22:00:00,4:00:00,2,Tidak,2,Tidak,1,Tidak,3.42
+385,Corresponden 385,Universitas 149,Perbankan Syariah,2,0:00:00,5:00:00,4,Tidak,2,Tidak,5,Tidak,3.29
+386,Corresponden 386,Universitas 35,Relasi Industri,8,22:00:00,4:00:00,5,Ya,2,Tidak,7,Tidak,3.55
+387,Corresponden 387,Universitas 27,Manajemen,7,23:00:00,4:00:00,2,Ya,1,Tidak,7,Ya,3.55
+388,Corresponden 388,Universitas 96,Peternakan,2,2:00:00,11:00:00,6,Tidak,1,Tidak,7,Tidak,3.46
+389,Corresponden 389,Universitas 5,Teknik Elektromedis,2,23:00:00,7:00:00,5,Tidak,1,Tidak,9,Tidak,3.45
+390,Corresponden 390,Universitas 27,Teknik Informatika,2,21:00:00,4:00:00,5,Ya,1,Tidak,3,Ya,3.41
+391,Corresponden 391,Universitas 1,Hukum Ekonomi Syariah,4,22:00:00,4:00:00,2,Tidak,2,Tidak,1,Tidak,3.65
+392,Corresponden 392,Universitas 17,Ilmu kelautan,6,23:00:00,8:00:00,8,Tidak,1,Ya,3,Tidak,3.4
+393,Corresponden 393,Universitas 74,Teknik Elektronika,4,22:00:00,8:00:00,3,Ya,0,Tidak,5,Ya,3.86
+394,Corresponden 394,Universitas 61,Teknik Sistem Energi,2,23:00:00,4:00:00,4,Tidak,2,Tidak,3,Tidak,3.65
+395,Corresponden 395,Universitas 150,Manajemen Informatika,6,22:00:00,4:00:00,6,Tidak,2,Ya,5,Ya,3.48
+396,Corresponden 396,Universitas 33,Teknik industri,4,22:00:00,5:00:00,7,Ya,1,Tidak,1,Ya,3.62
+397,Corresponden 397,Universitas 151,Sastra Inggris,4,21:00:00,3:00:00,6,Tidak,1,Tidak,5,Tidak,3.75
+398,Corresponden 398,Universitas 152,Pendidikan Guru Sekolah Dasar,2,1:00:00,7:00:00,6,Ya,3,Tidak,5,Tidak,3.75
+399,Corresponden 399,Universitas 2,Teknik Informatika,2,23:00:00,6:00:00,5,Tidak,1,Tidak,3,Ya,3.88
+400,Corresponden 400,Universitas 9,Teknik Informatika,2,20:00:00,5:00:00,6,Tidak,1,Tidak,5,Tidak,3
+401,Corresponden 401,Universitas 33,Pendidikan Bahasa Inggris,4,2:00:00,9:00:00,4,Tidak,1,Ya,1,Ya,2.97
+402,Corresponden 402,Universitas 87,Multimedia,6,22:00:00,3:00:00,2,Tidak,3,Tidak,7,Ya,3.89
+403,Corresponden 403,Universitas 87,Manufaktur,2,0:00:00,4:00:00,6,Ya,1,Ya,1,Tidak,3.34
+404,Corresponden 404,Universitas 54,Teknik Industri,2,22:00:00,4:00:00,5,Tidak,3,Tidak,4,Ya,3.23
+405,Corresponden 405,Universitas 49,Pendidikan Agama Islam,8,1:00:00,3:00:00,4,Tidak,0,Tidak,5,Ya,3.8
+406,Corresponden 406,Universitas 96,Teknologi Pangan,6,23:00:00,5:00:00,3,Ya,2,Tidak,7,Ya,3.2
+407,Corresponden 407,Universitas 122,Teknik Informatika,2,23:00:00,5:00:00,2,Tidak,1,Tidak,4,Ya,3.65
+408,Corresponden 408,Universitas 101,Kedokteran Hewan,4,2:00:00,6:00:00,4,Ya,3,Tidak,5,Tidak,3.64
+409,Corresponden 409,Universitas 27,Manajemen,2,22:00:00,4:00:00,3,Ya,1,Tidak,1,Ya,3.5
+410,Corresponden 410,Universitas 153,Manajemen Bisnis,2,23:00:00,6:00:00,6,Tidak,1,Tidak,3,Tidak,3.75
+411,Corresponden 411,Universitas 64,Pendidikan Akuntansi,8,19:00:00,5:00:00,6,Ya,2,Tidak,1,Ya,3.67
+412,Corresponden 412,Universitas 154,Pendidikan Kepelatihan Olahraga,4,21:00:00,4:00:00,4,Ya,1,Tidak,9,Ya,3.98
+413,Corresponden 413,Universitas 35,Relasi Industri,6,22:00:00,5:00:00,6,Tidak,1,Tidak,7,Tidak,3.86
+414,Corresponden 414,Universitas 27,Fakultas MIPA,5,23:00:00,5:00:00,8,Tidak,1,Tidak,1,Tidak,3.25
+415,Corresponden 415,Universitas 33,Sistem Informasi z,6,0:00:00,6:00:00,7,Ya,3,Tidak,1,Ya,3.4
+416,Corresponden 416,Universitas 27,Teknik Informatika,4,23:00:00,5:00:00,5,Tidak,1,Tidak,3,Ya,3.68
+417,Corresponden 417,Universitas 9,Teknik Informatika,2,0:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,3.5
+418,Corresponden 418,Universitas 6,Desain Produk,2,21:00:00,3:00:00,2,Tidak,1,Tidak,5,Ya,3.79
+419,Corresponden 419,Universitas 131,Teknik Elektro,4,23:00:00,8:00:00,8,Ya,3,Tidak,1,Ya,3.4
+420,Corresponden 420,Universitas 16,Hukum Tata Negara,2,22:00:00,6:00:00,7,Tidak,1,Tidak,4,Ya,3.7
+421,Corresponden 421,Universitas 155,Teknik Informatika,8,4:00:00,10:00:00,5,Ya,2,Tidak,3,Ya,2.9
+422,Corresponden 422,Universitas 56,Teknik Kimia,2,23:00:00,4:00:00,4,Tidak,1,Tidak,3,Tidak,3.4
+423,Corresponden 423,Universitas 74,Teknik Elektronika,4,23:00:00,8:00:00,4,Ya,3,Ya,5,Tidak,3.63
+424,Corresponden 424,Universitas 148,Teknik Logistik,2,23:00:00,5:00:00,4,Ya,1,Tidak,3,Tidak,2.72
+425,Corresponden 425,Universitas 2,Teknik Informatika,2,0:00:00,9:00:00,6,Tidak,2,Tidak,3,Ya,3.3
+426,Corresponden 426,Universitas 74,Sistem informasi,7,23:00:00,4:00:00,3,Ya,2,Tidak,3,Tidak,3.6
+427,Corresponden 427,Universitas 51,Sistem Informasi,4,0:00:00,9:00:00,5,Tidak,2,Tidak,3,Ya,3.65
+428,Corresponden 428,Universitas 51,Teknik Elektro,4,22:00:00,4:00:00,2,Tidak,2,Tidak,3,Tidak,3.55
+429,Corresponden 429,Universitas 156,administrasi negara,5,20:00:00,5:00:00,7,Ya,3,Tidak,3,Tidak,3.4
+430,Corresponden 430,Universitas 33,Manajemen bisnis,4,22:00:00,6:00:00,8,Ya,1,Tidak,1,Tidak,3.8
+431,Corresponden 431,Universitas 61,Teknik Kimia,2,0:00:00,7:00:00,4,Tidak,3,Tidak,7,Tidak,3.32
+432,Corresponden 432,Universitas 19,Teknik Industri,4,20:00:00,3:00:00,0,Ya,0,Tidak,7,Ya,3.92
+433,Corresponden 433,Universitas 1,Hukum Ekonomi Syariah,2,4:00:00,12:00:00,8,Tidak,1,Tidak,3,Tidak,3.44
+434,Corresponden 434,Universitas 95,Ilmu Hukum,4,1:00:00,7:00:00,5,Tidak,3,Tidak,3,Ya,3.32
+435,Corresponden 435,Universitas 51,manajemen,5,0:00:00,10:00:00,11,Tidak,1,Ya,1,Tidak,3.5
+436,Corresponden 436,Universitas 157,Sistem Informasi,5,22:00:00,4:00:00,8,Ya,1,Tidak,1,Tidak,3.46
+437,Corresponden 437,Universitas 5,Teknik Elektromedik,2,0:00:00,6:00:00,2,Tidak,1,Tidak,5,Tidak,2.89
+438,Corresponden 438,Universitas 87,Pembangkit Tenaga Listrik,6,22:00:00,4:00:00,2,Ya,2,Ya,3,Ya,3.29
+439,Corresponden 439,Universitas 64,Pendidikan Agama Islam,6,22:00:00,4:00:00,5,Tidak,1,Tidak,5,Tidak,3.86
+440,Corresponden 440,Universitas 11,Teknologi Rekayasa Otomotif,2,1:00:00,4:00:00,16,Ya,2,Tidak,9,Tidak,3.5
+441,Corresponden 441,Universitas 16,Akuntansi Syari'ah,2,22:00:00,6:00:00,5,Tidak,2,Tidak,4,Tidak,3.78
+442,Corresponden 442,Universitas 158,Sastra Inggris,4,23:00:00,5:00:00,5,Tidak,1,Tidak,5,Tidak,3.56
+443,Corresponden 443,Universitas 70,Psikologi,2,0:00:00,8:00:00,5,Tidak,3,Tidak,1,Ya,3.5
+444,Corresponden 444,Universitas 15,Hukum,6,20:00:00,3:00:00,6,Tidak,1,Tidak,6,Tidak,4
+445,Corresponden 445,Universitas 6,Teknik Sipil,4,22:00:00,3:00:00,1,Tidak,0,Tidak,5,Ya,3.83
+446,Corresponden 446,Universitas 52,Teknik Elektro,6,23:00:00,6:00:00,4,Tidak,2,Tidak,3,Tidak,2.5
+447,Corresponden 447,Universitas 159,Kebidanan,6,21:00:00,5:00:00,12,Tidak,2,Tidak,3,Tidak,3.8
+448,Corresponden 448,Universitas 160,Biologi,8,22:00:00,6:00:00,7,Ya,3,Tidak,1,Ya,3.4
+449,Corresponden 449,Universitas 25,Akuntansi Perpajakan,2,21:00:00,5:00:00,4,Tidak,1,Tidak,3,Ya,3.5
+450,Corresponden 450,Universitas 74,Psikologi,4,22:00:00,8:00:00,2,Ya,1,Tidak,5,Tidak,3.7
+451,Corresponden 451,Universitas 103,Administrasi Publik,2,23:00:00,6:00:00,4,Ya,2,Tidak,3,Tidak,3.78
+452,Corresponden 452,Universitas 51,Statistika,2,22:00:00,5:00:00,6,Tidak,2,Tidak,9,Tidak,3.54
+453,Corresponden 453,Universitas 161,Akuntasi,2,1:00:00,5:00:00,12,Tidak,2,Tidak,10,Ya,4
+454,Corresponden 454,Universitas 161,Ilmu Hukum,4,23:00:00,5:00:00,2,Ya,1,Tidak,7,Ya,3.65
+455,Corresponden 455,Universitas 47,Farmasi,8,23:00:00,5:00:00,6,Ya,1,Tidak,7,Tidak,3.32
+456,Corresponden 456,Universitas 41,Pendidikan Guru Sekolah Dasar,2,0:00:00,5:00:00,8,Tidak,2,Tidak,7,Tidak,3.69
+457,Corresponden 457,Universitas 162,Teknik Sipil,2,23:00:00,8:00:00,5,Tidak,1,Tidak,3,Tidak,3.5
+458,Corresponden 458,Universitas 53,Teknik Industri,2,21:00:00,4:00:00,5,Ya,3,Tidak,3,Ya,3.5
+459,Corresponden 459,Universitas 163,Supervisor Jaminan Mutu Pangan,8,23:00:00,4:00:00,6,Ya,2,Tidak,7,Tidak,3.71
+460,Corresponden 460,Universitas 105,Budidaya Perairan,2,22:00:00,4:00:00,5,Tidak,0,Tidak,4,Tidak,3.9
+461,Corresponden 461,Universitas 15,Penyuluhan dan Komunikasi Pertanian,2,1:00:00,5:00:00,5,Tidak,1,Tidak,3,Tidak,3.54
+462,Corresponden 462,Universitas 164,Sastra Inggris,2,22:00:00,4:00:00,3,Tidak,1,Tidak,1,Tidak,3
+463,Corresponden 463,Universitas 19,Psikologi,4,22:00:00,6:00:00,5,Tidak,0,Tidak,3,Tidak,3.92
+464,Corresponden 464,Universitas 5,Teknil Elektromedik,2,22:00:00,5:00:00,2,Tidak,1,Tidak,3,Tidak,3.87
+465,Corresponden 465,Universitas 36,Ilmu Kedokteran Jiwa,8,19:00:00,6:00:00,7,Tidak,1,Tidak,3,Tidak,3.35
+466,Corresponden 466,Universitas 1,Pendidikan Guru Madrasah Ibtidaiyah,2,21:00:00,5:00:00,5,Tidak,1,Tidak,5,Tidak,3.82
+467,Corresponden 467,Universitas 96,Pertanian,6,22:00:00,5:00:00,4,Ya,1,Tidak,4,Tidak,3.4
+468,Corresponden 468,Universitas 27,Manajemen,2,22:00:00,4:00:00,5,Tidak,1,Tidak,5,Tidak,3.6
+469,Corresponden 469,Universitas 148,Desain Komunikasi Visual,2,22:00:00,5:00:00,6,Tidak,1,Tidak,9,Tidak,3.77
+470,Corresponden 470,Universitas 35,Relasi Industri,8,22:00:00,6:00:00,6,Tidak,2,Tidak,7,Tidak,3.82
+471,Corresponden 471,Universitas 165,Farmasi,2,21:00:00,3:00:00,5,Tidak,2,Tidak,5,Tidak,3.85
+472,Corresponden 472,Universitas 20,Kebidanan,2,1:00:00,3:00:00,4,Tidak,1,Tidak,5,Tidak,3.89
+473,Corresponden 473,Universitas 6,Psikologi,4,22:00:00,5:00:00,8,Ya,3,Tidak,5,Ya,3.9
+474,Corresponden 474,Universitas 7,Ilmu Komputer,8,22:00:00,6:00:00,7,Tidak,2,Tidak,3,Tidak,3.2
+475,Corresponden 475,Universitas 1,Hukum Tata Negara,4,22:00:00,6:00:00,5,Tidak,2,Tidak,1,Tidak,3.46
+476,Corresponden 476,Universitas 166,Hubungan Internasional,2,23:00:00,5:00:00,4,Ya,3,Tidak,4,Tidak,3.47
+477,Corresponden 477,Universitas 157,Teknik Elektronika,4,19:00:00,4:00:00,7,Ya,2,Tidak,3,Ya,3.5
+478,Corresponden 478,Universitas 24,Sistem Informasi,2,23:00:00,9:00:00,5,Tidak,1,Tidak,7,Ya,3.24
+479,Corresponden 479,Universitas 33,Pendidikan Bahasa Inggris,4,23:00:00,8:00:00,8,Ya,3,Tidak,9,Tidak,3.26
+480,Corresponden 480,Universitas 167,Psikologi,8,21:00:00,5:00:00,8,Ya,2,Tidak,3,Tidak,3.25
+481,Corresponden 481,Universitas 72,Pendidikan Bahasa Inggris,2,21:00:00,4:00:00,3,Tidak,1,Tidak,7,Tidak,3.8
+482,Corresponden 482,Universitas 96,Ilmu Komunikasi,2,23:00:00,5:00:00,6,Ya,2,Tidak,5,Tidak,3.8
+483,Corresponden 483,Universitas 27,Teknik Informatika,2,23:00:00,5:00:00,4,Ya,2,Tidak,5,Ya,3.56
+484,Corresponden 484,Universitas 5,Teknik Elektromedik,2,23:00:00,5:00:00,5,Tidak,1,Tidak,5,Tidak,3.43
+485,Corresponden 485,Universitas 15,Akuntansi,2,23:00:00,9:00:00,8,Ya,1,Tidak,1,Tidak,3.77
+486,Corresponden 486,Universitas 168,Usaha Perjalanan Wisata,2,22:00:00,5:00:00,8,Tidak,1,Tidak,7,Tidak,3.58
+487,Corresponden 487,Universitas 74,Sistem Komputer,4,23:00:00,9:00:00,7,Ya,1,Tidak,3,Tidak,3.3
+488,Corresponden 488,Universitas 18,Bisnis Digital,2,23:00:00,5:00:00,5,Ya,1,Tidak,9,Tidak,3.88
+489,Corresponden 489,Universitas 15,Kehutanan,2,1:00:00,4:00:00,2,Tidak,1,Tidak,3,Tidak,3.87
+490,Corresponden 490,Universitas 27,Teknik Informatika,4,23:00:00,5:00:00,6,Ya,3,Tidak,1,Ya,3.2
+491,Corresponden 491,Universitas 169,Teknik Industri,2,23:00:00,5:00:00,5,Tidak,1,Tidak,3,Ya,3.7
+492,Corresponden 492,Universitas 24,Periklanan,6,22:00:00,5:00:00,6,Tidak,0,Tidak,7,Tidak,3.79
+493,Corresponden 493,Universitas 51,Statistika,2,22:00:00,5:00:00,6,Tidak,1,Ya,5,Tidak,3.78
+494,Corresponden 494,Universitas 32,Manajemen Pendidikan Islam,2,23:00:00,4:00:00,4,Tidak,2,Tidak,5,Tidak,3.67
+495,Corresponden 495,Universitas 9,Teknik Informatika,2,23:00:00,6:00:00,2,Ya,1,Tidak,1,Ya,3.7
+496,Corresponden 496,Universitas 18,Broadcasting,8,22:00:00,6:00:00,7,Tidak,2,Tidak,1,Ya,3.56
+497,Corresponden 497,Universitas 170,Akuntansi,4,23:00:00,5:00:00,5,Tidak,2,Tidak,3,Tidak,3.72
+498,Corresponden 498,Universitas 27,Manajemen keuangan,8,22:00:00,5:00:00,7,Tidak,3,Tidak,1,Tidak,3.6
+499,Corresponden 499,Universitas 103,Kimia,4,22:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,3.77
+500,Corresponden 500,Universitas 96,Ilmu Komunikasi,6,23:00:00,5:00:00,4,Tidak,1,Tidak,1,Ya,3.79
+501,Corresponden 501,Universitas 171,Manajemen Sumber Daya Manusia,8,22:00:00,5:00:00,8,Tidak,1,Tidak,1,Tidak,3.88
+502,Corresponden 502,Universitas 18,Pendidikan Kimia,2,21:00:00,4:00:00,5,Tidak,1,Tidak,5,Tidak,3.79
+503,Corresponden 503,Universitas 88,Kewirausahaan,4,23:00:00,5:00:00,5,Tidak,2,Tidak,5,Tidak,3.92
+504,Corresponden 504,Universitas 70,Kebidanan,4,22:00:00,5:00:00,2,Ya,1,Tidak,3,Ya,4
+505,Corresponden 505,Universitas 33,Fisioterapi,4,23:00:00,6:00:00,7,Ya,1,Tidak,1,Tidak,3.6
+506,Corresponden 506,Universitas 27,Teknik Informatika,4,23:00:00,5:00:00,6,Tidak,2,Tidak,5,Tidak,3.55
+507,Corresponden 507,Universitas 172,SIA,8,19:00:00,5:00:00,9,Ya,1,Tidak,1,Ya,3.7
+508,Corresponden 508,Universitas 173,Manajemen,7,22:00:00,5:00:00,4,Ya,1,Tidak,7,Ya,3.55
+509,Corresponden 509,Universitas 174,Perhotelan,6,23:00:00,5:00:00,3,Ya,2,Tidak,3,Ya,3.23
+510,Corresponden 510,Universitas 77,Bimbingan dan Konseling,2,0:00:00,5:00:00,5,Tidak,2,Tidak,1,Tidak,3.8
+511,Corresponden 511,Universitas 36,Kedokteran,3,20:00:00,8:00:00,3,Ya,1,Tidak,2,Tidak,3.67
+512,Corresponden 512,Universitas 101,Teknik Mesin dan Biosistem,2,3:00:00,5:00:00,2,Tidak,3,Tidak,5,Ya,3.87
+513,Corresponden 513,Universitas 45,Pariwisata,2,0:00:00,8:00:00,4,Tidak,2,Tidak,5,Ya,3.97
+514,Corresponden 514,Universitas 139,Hospital Pariwisata,2,2:00:00,7:00:00,9,Tidak,3,Tidak,1,Ya,3.2
+515,Corresponden 515,Universitas 103,Teknik Informatika,4,23:00:00,8:00:00,6,Tidak,1,Tidak,5,Tidak,3.92
+516,Corresponden 516,Universitas 17,Matematika,4,0:00:00,8:00:00,6,Tidak,1,Tidak,5,Ya,3.3
+517,Corresponden 517,Universitas 134,Pendidikan Bahasa Jerman,2,23:00:00,5:00:00,6,Tidak,1,Tidak,5,Tidak,3.58
+518,Corresponden 518,Universitas 37,Sistem Informasi,4,0:00:00,5:00:00,6,Ya,2,Tidak,3,Ya,3.6
+519,Corresponden 519,Universitas 36,Teknik Elektro,2,23:00:00,3:00:00,4,Tidak,1,Tidak,3,Tidak,3.73
+520,Corresponden 520,Universitas 5,Elektromedis,2,22:00:00,4:00:00,5,Tidak,3,Tidak,9,Tidak,3.47
+521,Corresponden 521,Universitas 51,Keperawatan,4,22:00:00,5:00:00,5,Tidak,1,Tidak,5,Tidak,3.66
+522,Corresponden 522,Universitas 175,Teknik Informatika,2,1:00:00,6:00:00,13,Tidak,2,Tidak,5,Ya,3.35
+523,Corresponden 523,Universitas 25,Akuntansi Perpajakan,6,23:00:00,5:00:00,4,Ya,2,Tidak,3,Ya,3.25
+524,Corresponden 524,Universitas 97,Teknik Metalurgi,2,23:00:00,5:00:00,2,Ya,1,Tidak,1,Tidak,3.75
+525,Corresponden 525,Universitas 176,psikologi,4,3:00:00,12:00:00,6,Tidak,1,Tidak,3,Tidak,3.7
+526,Corresponden 526,Universitas 30,Teknik Kendaraan Ringan,2,22:00:00,6:00:00,4,Ya,1,Tidak,1,Ya,3.71
+527,Corresponden 527,Universitas 113,Kesehatan Masyarakat,2,22:00:00,5:00:00,5,Tidak,1,Tidak,1,Tidak,4
+528,Corresponden 528,Universitas 177,Bimbingan Konseling,2,22:00:00,5:00:00,6,Tidak,1,Tidak,7,Tidak,3.47
+529,Corresponden 529,Universitas 103,Teknik Mesin,2,3:00:00,8:00:00,1,Tidak,1,Tidak,3,Tidak,3.18
+530,Corresponden 530,Universitas 178,Teknik Informatika,2,0:00:00,6:00:00,5,Tidak,2,Tidak,5,Ya,3.26
+531,Corresponden 531,Universitas 96,Proteksi Tanaman,2,22:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,3.83
+532,Corresponden 532,Universitas 5,Teknik Elektromedik,2,1:00:00,4:00:00,4,Tidak,1,Tidak,5,Tidak,3.74
+533,Corresponden 533,Universitas 52,Teknik Sipil,2,22:00:00,5:00:00,6,Tidak,2,Tidak,9,Tidak,2.88
+534,Corresponden 534,Universitas 132,Hukum,2,22:00:00,5:00:00,16,Ya,1,Tidak,7,Tidak,3.75
+535,Corresponden 535,Universitas 12,Teknik Informatika,2,23:00:00,5:00:00,4,Tidak,2,Tidak,5,Tidak,3.65
+536,Corresponden 536,Universitas 179,Pendidikan Ekonomi,2,0:00:00,6:00:00,6,Tidak,1,Tidak,5,Tidak,3.5
+537,Corresponden 537,Universitas 51,Teknik Mesin,6,22:00:00,8:00:00,4,Ya,2,Tidak,1,Ya,3.15
+538,Corresponden 538,Universitas 9,Public Relations,2,22:00:00,5:00:00,4,Tidak,1,Tidak,1,Tidak,3.64
+539,Corresponden 539,Universitas 161,Teknologi Informasi,2,23:00:00,6:00:00,4,Tidak,0,Tidak,1,Ya,3.79
+540,Corresponden 540,Universitas 9,Teknik Informatika,2,22:00:00,6:00:00,2,Tidak,1,Tidak,1,Ya,3.15
+541,Corresponden 541,Universitas 2,Teknik Informatika,4,0:00:00,6:00:00,4,Tidak,1,Tidak,1,Ya,3.71
+542,Corresponden 542,Universitas 9,Teknik Informatika,2,23:00:00,6:00:00,8,Tidak,3,Tidak,9,Ya,3.45
+543,Corresponden 543,Universitas 180,Sistem Informasi,2,23:00:00,6:00:00,6,Tidak,2,Tidak,3,Tidak,3.75
+544,Corresponden 544,Universitas 6,Teknik Biomedis,4,23:00:00,8:00:00,2,Ya,3,Tidak,3,Ya,3.79
+545,Corresponden 545,Universitas 16,Psikologi,2,21:00:00,5:00:00,8,Tidak,1,Tidak,4,Tidak,3.85
+546,Corresponden 546,Universitas 51,Manajemen,8,23:00:00,5:00:00,5,Ya,1,Tidak,7,Ya,3.74
+547,Corresponden 547,Universitas 36,Sastra Bahasa Inggris,2,22:00:00,4:00:00,6,Tidak,1,Tidak,3,Ya,2.3
+548,Corresponden 548,Universitas 11,Administrasi Bisnis Otomotif,2,23:00:00,4:00:00,6,Ya,3,Tidak,5,Ya,3.52
+549,Corresponden 549,Universitas 33,Hukum,6,22:00:00,5:00:00,6,Tidak,3,Tidak,5,Ya,3.98
+550,Corresponden 550,Universitas 40,Sistem informasi,2,0:00:00,8:00:00,5,Tidak,3,Tidak,1,Tidak,3.5
+551,Corresponden 551,Universitas 181,Matematika,8,22:00:00,6:00:00,7,Ya,3,Tidak,3,Tidak,3.45
+552,Corresponden 552,Universitas 164,Teknik Arsitektur,2,23:00:00,5:00:00,4,Ya,1,Tidak,1,Ya,3.52
+553,Corresponden 553,Universitas 179,Teknik Informatika,2,22:00:00,5:00:00,4,Tidak,1,Tidak,5,Tidak,3.75
+554,Corresponden 554,Universitas 27,Teknik Informatika,4,1:00:00,4:00:00,2,Tidak,1,Tidak,5,Tidak,3.43
+555,Corresponden 555,Universitas 95,Teknik Geologi,2,3:00:00,5:00:00,10,Tidak,1,Tidak,5,Tidak,3.63
+556,Corresponden 556,Universitas 182,Pendidikan Bahasa Inggris,4,23:00:00,6:00:00,5,Tidak,1,Tidak,5,Tidak,3.85
+557,Corresponden 557,Universitas 24,Ilmu Komunikasi Broadcasting,2,0:00:00,10:00:00,6,Ya,1,Tidak,3,Ya,4
+558,Corresponden 558,Universitas 26,S1- Pendidikan Geografi,2,19:00:00,5:00:00,8,Ya,0,Tidak,1,Tidak,3.25
+559,Corresponden 559,Universitas 183,Ilmu komunikasi,4,3:00:00,9:00:00,8,Ya,3,Tidak,1,Tidak,3.2
+560,Corresponden 560,Universitas 92,Teknologi Informasi,2,22:00:00,4:00:00,6,Tidak,1,Tidak,5,Ya,3.55
+561,Corresponden 561,Universitas 184,Ilmu Sejarah,2,22:00:00,6:00:00,4,Tidak,1,Tidak,7,Ya,3.85
+562,Corresponden 562,Universitas 8,Peternakan,4,22:00:00,4:00:00,4,Ya,1,Tidak,3,Tidak,3.56
+563,Corresponden 563,Universitas 6,IT,4,23:00:00,8:00:00,8,Ya,3,Ya,3,Ya,3.4
+564,Corresponden 564,Universitas 95,Teknologi Hasil Pertanian,2,21:00:00,5:00:00,6,Tidak,1,Tidak,9,Tidak,3.52
+565,Corresponden 565,Universitas 2,Teknik Informatika,2,22:00:00,5:00:00,7,Tidak,1,Tidak,1,Tidak,3.53
+566,Corresponden 566,Universitas 27,Teknik Informatika,2,21:00:00,5:00:00,7,Tidak,0,Tidak,7,Ya,3.22
+567,Corresponden 567,Universitas 136,Teknik Elektro,8,22:00:00,5:00:00,7,Ya,2,Tidak,3,Ya,3.76
+568,Corresponden 568,Universitas 13,Teknik Elektronika,4,22:00:00,5:00:00,5,Ya,1,Tidak,5,Tidak,3.3
+569,Corresponden 569,Universitas 18,Pendidikan Ilmu Komputer,2,22:00:00,5:00:00,3,Tidak,2,Tidak,5,Ya,3.76
+570,Corresponden 570,Universitas 185,Hukum Internasional,4,4:00:00,10:00:00,8,Tidak,3,Ya,1,Ya,3.5
+571,Corresponden 571,Universitas 186,Akuntansi,2,0:00:00,5:00:00,6,Ya,1,Tidak,7,Tidak,3.66
+572,Corresponden 572,Universitas 136,Ilmu Politik,2,0:00:00,5:00:00,3,Tidak,1,Tidak,2,Tidak,3.68
+573,Corresponden 573,Universitas 5,Rekayasa Teknik elektromedik,2,23:00:00,6:00:00,2,Tidak,3,Tidak,5,Tidak,3.69
+574,Corresponden 574,Universitas 122,Komunikasi dan Penyiaran Islam,2,22:00:00,7:00:00,5,Tidak,2,Tidak,9,Tidak,3.6
+575,Corresponden 575,Universitas 96,Agroteknologi,6,0:00:00,4:00:00,5,Tidak,1,Tidak,1,Tidak,3.65
+576,Corresponden 576,Universitas 61,Teknik Biomedis,2,1:00:00,7:00:00,6,Tidak,1,Tidak,5,Tidak,3.26
+577,Corresponden 577,Universitas 28,Kedokteran,4,23:00:00,5:00:00,4,Tidak,3,Tidak,5,Tidak,3.5
+578,Corresponden 578,Universitas 187,Terapis Gigi dan Mulut,2,21:00:00,4:00:00,5,Ya,1,Tidak,1,Tidak,3.5
+579,Corresponden 579,Universitas 188,Keperawatan,4,23:00:00,8:00:00,5,Tidak,1,Tidak,4,Tidak,3.68
+580,Corresponden 580,Universitas 18,Bisnis Digital,2,22:00:00,4:00:00,4,Ya,1,Tidak,7,Tidak,4
+581,Corresponden 581,Universitas 182,Pendidikan Matematika,8,23:00:00,5:00:00,6,Ya,1,Tidak,7,Tidak,3.87
+582,Corresponden 582,Universitas 51,Teknik Metalurgi,2,22:00:00,4:00:00,2,Ya,1,Tidak,2,Tidak,3.34
+583,Corresponden 583,Universitas 27,Sistem Informasi,2,0:00:00,5:00:00,5,Tidak,2,Tidak,5,Tidak,3.63
+584,Corresponden 584,Universitas 103,Hukum,8,22:00:00,5:00:00,8,Ya,3,Tidak,3,Tidak,3.45
+585,Corresponden 585,Universitas 18,Film dan Televisi,4,23:00:00,8:00:00,5,Tidak,2,Ya,3,Ya,3.8
+586,Corresponden 586,Universitas 47,Teknik Industri,8,0:00:00,7:00:00,4,Tidak,1,Tidak,7,Tidak,3.64
+587,Corresponden 587,Universitas 11,Sistem Informasi,2,23:00:00,4:00:00,6,Tidak,3,Tidak,5,Tidak,3.2
+588,Corresponden 588,Universitas 6,Teknik Biomedis,4,23:00:00,5:00:00,1,Tidak,0,Tidak,7,Tidak,3.93
+589,Corresponden 589,Universitas 87,Multimedia,6,22:00:00,2:00:00,5,Ya,3,Tidak,3,Tidak,3.41
+590,Corresponden 590,Universitas 189,Ilmu Komunikasi,4,23:00:00,4:00:00,6,Tidak,1,Tidak,5,Tidak,3.3
+591,Corresponden 591,Universitas 9,Teknik Informatika,2,1:00:00,6:00:00,6,Tidak,2,Tidak,5,Ya,3.2
+592,Corresponden 592,Universitas 40,Teknik Elektro,1,5:00:00,10:00:00,3,Ya,1,Tidak,9,Tidak,2.54
+593,Corresponden 593,Universitas 61,Teknik Kimia,2,23:00:00,4:00:00,4,Tidak,2,Tidak,7,Tidak,3.23
+594,Corresponden 594,Universitas 41,Pendidikan Guru Sekolah Dasar,8,3:00:00,10:00:00,10,Tidak,3,Ya,1,Tidak,3.45
+595,Corresponden 595,Universitas 15,Kehutanan,2,21:00:00,3:00:00,6,Ya,2,Tidak,3,Ya,3.92
+596,Corresponden 596,Universitas 51,Teknik Perikanan,8,23:00:00,5:00:00,4,Tidak,0,Tidak,5,Ya,3.2
+597,Corresponden 597,Universitas 64,Akuntansi Sektor Publik,2,0:00:00,6:00:00,6,Tidak,1,Tidak,3,Tidak,3.66
+598,Corresponden 598,Universitas 8,Bisnis Internasional,1,4:00:00,8:00:00,8,Tidak,3,Ya,1,Ya,3.6
+599,Corresponden 599,Universitas 148,Teknik Telekomunikasi,4,23:00:00,6:00:00,4,Ya,1,Tidak,5,Tidak,3.77
+600,Corresponden 600,Universitas 11,Sistem Informasi Industri Otomotif,2,22:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.85
+601,Corresponden 601,Universitas 116,Hukum Bisnis,2,23:00:00,6:00:00,6,Tidak,2,Tidak,5,Ya,3.95
+602,Corresponden 602,Universitas 177,Teknik Informatika,6,23:00:00,7:00:00,5,Ya,1,Tidak,7,Tidak,3.67
+603,Corresponden 603,Universitas 33,Ilmu Komunikasi,2,22:00:00,5:00:00,3,Tidak,1,Tidak,3,Tidak,3.2
+604,Corresponden 604,Universitas 43,Bisnis Digital,2,23:00:00,5:00:00,5,Ya,2,Tidak,5,Tidak,3
+605,Corresponden 605,Universitas 27,Akuntansi,2,22:00:00,5:00:00,1,Tidak,1,Tidak,1,Ya,3.53
+606,Corresponden 606,Universitas 52,Teknik Konversi Energi,4,23:00:00,5:00:00,4,Ya,2,Tidak,5,Tidak,2.98
+607,Corresponden 607,Universitas 105,pendidikan sejarah,2,22:00:00,4:00:00,2,Tidak,1,Tidak,3,Tidak,4
+608,Corresponden 608,Universitas 29,Gizi,2,23:00:00,5:00:00,6,Tidak,2,Tidak,3,Ya,3.49
+609,Corresponden 609,Universitas 116,Akuntansi,2,21:00:00,5:00:00,7,Tidak,1,Tidak,3,Tidak,3.9
+610,Corresponden 610,Universitas 190,Kebidanan,4,22:00:00,5:00:00,2,Ya,2,Tidak,3,Tidak,3.16
+611,Corresponden 611,Universitas 8,Ilmu Komunikasi,8,19:00:00,4:00:00,6,Tidak,1,Tidak,3,Tidak,3.65
+612,Corresponden 612,Universitas 21,Ekonomi,2,22:00:00,5:00:00,3,Ya,2,Tidak,5,Ya,3.3
+613,Corresponden 613,Universitas 191,Teknik Industri,2,0:00:00,3:00:00,5,Tidak,1,Tidak,5,Tidak,3.75
+614,Corresponden 614,Universitas 44,Farmasi Klinik dan Komunitas,2,23:00:00,5:00:00,5,Tidak,1,Tidak,9,Tidak,3.58
+615,Corresponden 615,Universitas 112,Teknik Informatika,2,22:00:00,6:00:00,6,Tidak,1,Tidak,5,Tidak,3.75
+616,Corresponden 616,Universitas 192,Akuntansi,8,22:00:00,4:00:00,4,Tidak,0,Tidak,7,Tidak,3.48
+617,Corresponden 617,Universitas 6,Computer Science,4,0:00:00,5:00:00,6,Tidak,1,Tidak,5,Tidak,3.61
+618,Corresponden 618,Universitas 177,Desain dan Komunikasi Visual,2,23:00:00,2:00:00,10,Tidak,1,Tidak,3,Tidak,3.5
+619,Corresponden 619,Universitas 37,Sistem Informasi,4,23:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.7
+620,Corresponden 620,Universitas 193,Manajemen,2,21:00:00,4:00:00,2,Ya,2,Tidak,1,Ya,3.55
+621,Corresponden 621,Universitas 101,Matematika,8,22:00:00,5:00:00,7,Tidak,1,Tidak,3,Tidak,3.56
+622,Corresponden 622,Universitas 51,Teknik Elektro,2,23:00:00,5:00:00,9,Tidak,1,Tidak,3,Tidak,3.2
+623,Corresponden 623,Universitas 194,Teknik Dirgantara,2,23:00:00,5:00:00,6,Tidak,1,Tidak,5,Tidak,3.84
+624,Corresponden 624,Universitas 195,Pendidikan Guru Sekolah Dasar,4,22:00:00,6:00:00,4,Tidak,1,Tidak,9,Tidak,3.8
+625,Corresponden 625,Universitas 54,Ilmu Komunikasi,2,22:00:00,4:00:00,4,Tidak,2,Tidak,3,Tidak,4
+626,Corresponden 626,Universitas 136,Matematika,8,19:00:00,6:00:00,6,Tidak,1,Tidak,3,Ya,3.78
+627,Corresponden 627,Universitas 178,Manajemen,2,1:00:00,4:00:00,2,Ya,2,Tidak,9,Ya,3.73
+628,Corresponden 628,Universitas 99,Akuntansi,3,0:00:00,8:00:00,6,Ya,1,Tidak,3,Ya,3.25
+629,Corresponden 629,Universitas 95,Akuntansi,8,22:00:00,4:00:00,11,Ya,1,Tidak,1,Tidak,3.68
+630,Corresponden 630,Universitas 2,Sistem Komputer,3,22:00:00,5:00:00,6,Tidak,1,Tidak,3,Ya,3.5
+631,Corresponden 631,Universitas 196,Perencanaan Wilayah dan Kota,2,22:00:00,1:00:00,6,Tidak,0,Tidak,9,Tidak,3.8
+632,Corresponden 632,Universitas 18,Pendidikan Guru Sekolah Dasar,2,22:00:00,4:00:00,9,Tidak,1,Tidak,5,Tidak,3.8
+633,Corresponden 633,Universitas 74,Psikologi,2,21:00:00,4:00:00,5,Ya,2,Tidak,3,Tidak,3.87
+634,Corresponden 634,Universitas 29,Gizi,2,23:00:00,8:00:00,10,Tidak,1,Tidak,5,Ya,3.55
+635,Corresponden 635,Universitas 33,Pendidikan bahasa Inggris,4,23:00:00,5:00:00,6,Tidak,1,Tidak,9,Tidak,3.63
+636,Corresponden 636,Universitas 51,Manajemen Pemasaran,4,0:00:00,7:00:00,2,Tidak,2,Tidak,1,Tidak,3.85
+637,Corresponden 637,Universitas 36,Manajemen,6,23:00:00,3:00:00,4,Tidak,1,Tidak,3,Tidak,3.77
+638,Corresponden 638,Universitas 50,Broadcasting,4,23:00:00,3:00:00,4,Ya,2,Tidak,7,Tidak,3.8
+639,Corresponden 639,Universitas 197,Administrasi Bisnis Internasional,3,1:00:00,5:00:00,11,Tidak,1,Tidak,1,Tidak,3.5
+640,Corresponden 640,Universitas 51,Ilmu Hukum,8,22:00:00,5:00:00,6,Tidak,0,Tidak,7,Ya,3.98
+641,Corresponden 641,Universitas 51,Agroekoteknologi,2,0:00:00,5:00:00,4,Ya,2,Tidak,5,Tidak,3.55
+642,Corresponden 642,Universitas 27,Ilmu Komunikasi,2,21:00:00,4:00:00,5,Tidak,2,Tidak,3,Tidak,3.75
+643,Corresponden 643,Universitas 27,Teknik Industri,4,23:00:00,5:00:00,1,Ya,3,Tidak,3,Ya,3.88
+644,Corresponden 644,Universitas 6,Film,4,21:00:00,8:00:00,8,Ya,2,Ya,1,Ya,3.66
+645,Corresponden 645,Universitas 198,Automotive and Robotic Engineering,6,23:00:00,5:00:00,10,Tidak,1,Tidak,5,Tidak,3.83
+646,Corresponden 646,Universitas 112,Teknik Informatika,2,23:00:00,4:00:00,5,Tidak,1,Tidak,5,Tidak,3.65
+647,Corresponden 647,Universitas 36,Tata boga,1,22:00:00,4:00:00,3,Tidak,1,Tidak,2,Tidak,4
+648,Corresponden 648,Universitas 33,Pendidikan Guru Sekolah Dasar,8,22:00:00,5:00:00,4,Tidak,0,Tidak,7,Tidak,3.94
+649,Corresponden 649,Universitas 96,Administrasi Perkantoran,8,21:00:00,4:00:00,7,Ya,2,Tidak,3,Tidak,3.76
+650,Corresponden 650,Universitas 103,Ilmu Komunikasi,4,22:00:00,6:00:00,6,Ya,3,Tidak,3,Ya,3.89
+651,Corresponden 651,Universitas 27,Manajemen,8,23:00:00,6:00:00,7,Tidak,3,Tidak,1,Ya,3.8
+652,Corresponden 652,Universitas 54,Akuntansi,2,23:00:00,4:00:00,4,Tidak,1,Tidak,3,Tidak,3.68
+653,Corresponden 653,Universitas 36,Ilmu Ekonomi,8,21:00:00,5:00:00,7,Ya,1,Tidak,3,Tidak,3.56
+654,Corresponden 654,Universitas 18,Bisnis Digital,2,23:00:00,5:00:00,4,Tidak,0,Tidak,2,Tidak,3.85
+655,Corresponden 655,Universitas 11,Sistem Informasi Industri Otomotif,2,22:00:00,5:00:00,4,Ya,1,Tidak,6,Tidak,3.85
+656,Corresponden 656,Universitas 187,Kebidanan,2,21:00:00,4:00:00,2,Tidak,3,Tidak,1,Tidak,3.8
+657,Corresponden 657,Universitas 19,Psikologi,4,23:00:00,7:00:00,2,Ya,1,Tidak,5,Ya,3.7
+658,Corresponden 658,Universitas 30,Kedokteran,2,23:00:00,5:00:00,4,Tidak,1,Tidak,5,Tidak,3.5
+659,Corresponden 659,Universitas 11,Teknologi Rekayasa Otomotif,2,22:00:00,5:00:00,4,Tidak,1,Tidak,8,Tidak,2.8
+660,Corresponden 660,Universitas 2,Sains dan Teknologi,4,23:00:00,5:00:00,6,Tidak,1,Tidak,1,Ya,3.73
+661,Corresponden 661,Universitas 199,Akuntansi,1,0:00:00,5:00:00,6,Tidak,1,Tidak,1,Ya,3.8
+662,Corresponden 662,Universitas 87,Teknik Multimedia Digital,4,0:00:00,5:00:00,10,Ya,1,Tidak,9,Ya,3.77
+663,Corresponden 663,Universitas 200,Pendidikan Fisika,8,23:00:00,5:00:00,8,Ya,1,Tidak,5,Ya,3.71
+664,Corresponden 664,Universitas 61,Rekayasa Minyak dan Gas,2,23:00:00,5:00:00,6,Tidak,1,Tidak,7,Tidak,2.74
+665,Corresponden 665,Universitas 11,Teknik Kimia Polimer,2,0:00:00,4:00:00,4,Tidak,1,Tidak,5,Tidak,3.83
+666,Corresponden 666,Universitas 134,Pendidikan Tata Boga,2,23:00:00,4:00:00,4,Ya,1,Tidak,9,Tidak,3.91
+667,Corresponden 667,Universitas 64,Pendidikan Agama Islam,6,22:00:00,3:00:00,4,Tidak,1,Tidak,3,Tidak,3.78
+668,Corresponden 668,Universitas 201,Kebidanan,2,23:00:00,5:00:00,2,Tidak,1,Tidak,7,Tidak,3.67
+669,Corresponden 669,Universitas 11,Sistem Informasi Industri Otomotif,2,21:00:00,5:00:00,8,Tidak,2,Tidak,5,Ya,4
+670,Corresponden 670,Universitas 2,Teknik Informatika,4,23:00:00,4:00:00,6,Tidak,1,Tidak,9,Ya,3.6
+671,Corresponden 671,Universitas 50,Multimedia,5,3:00:00,6:00:00,17,Ya,1,Ya,1,Tidak,2.89
+672,Corresponden 672,Universitas 111,Teknik Sipil,2,23:00:00,5:00:00,4,Tidak,2,Tidak,3,Tidak,3.5
+673,Corresponden 673,Universitas 92,Komputerisasi Akuntansi,5,23:00:00,5:00:00,5,Tidak,1,Tidak,3,Ya,3
+674,Corresponden 674,Universitas 51,Statistika,2,23:00:00,5:00:00,9,Ya,1,Tidak,3,Tidak,3.73
+675,Corresponden 675,Universitas 29,Manajemen,2,1:00:00,5:00:00,6,Tidak,2,Tidak,3,Ya,3.6
+676,Corresponden 676,Universitas 6,Digital Business Innovation,2,23:00:00,7:00:00,6,Tidak,2,Tidak,3,Tidak,3.36
+677,Corresponden 677,Universitas 27,Ilmu Komunikasi,2,22:00:00,4:00:00,1,Ya,1,Tidak,1,Ya,3.21
+678,Corresponden 678,Universitas 191,Manajemen,2,22:00:00,5:00:00,7,Ya,1,Tidak,5,Tidak,3.78
+679,Corresponden 679,Universitas 27,Manajemen,2,22:00:00,5:00:00,5,Tidak,2,Tidak,3,Ya,3.72
+680,Corresponden 680,Universitas 202,Keperawatan,2,1:00:00,4:00:00,3,Tidak,1,Tidak,9,Tidak,3.8
+681,Corresponden 681,Universitas 203,teknik mesin,6,1:00:00,8:00:00,11,Ya,2,Ya,1,Ya,3
+682,Corresponden 682,Universitas 45,Akutansi,2,22:00:00,5:00:00,4,Ya,1,Tidak,3,Tidak,3.72
+683,Corresponden 683,Universitas 51,Ilmu Perikanan,2,22:00:00,5:00:00,4,Tidak,1,Tidak,9,Tidak,3.58
+684,Corresponden 684,Universitas 117,Teknik Informatika,2,22:00:00,5:00:00,6,Tidak,2,Tidak,5,Tidak,3.88
+685,Corresponden 685,Universitas 4,Teknologi Informasi,2,0:00:00,8:00:00,2,Tidak,1,Tidak,3,Ya,3.25
+686,Corresponden 686,Universitas 19,Hukum,6,1:00:00,7:00:00,5,Ya,2,Ya,1,Tidak,2.8
+687,Corresponden 687,Universitas 18,Matematika,2,22:00:00,4:00:00,5,Tidak,1,Tidak,3,Tidak,3.42
+688,Corresponden 688,Universitas 68,Akuntansi Perpajakan,4,23:00:00,5:00:00,3,Tidak,1,Tidak,5,Tidak,3.6
+689,Corresponden 689,Universitas 50,IT,4,0:00:00,8:00:00,8,Ya,3,Tidak,5,Ya,3.2
+690,Corresponden 690,Universitas 96,Teknik Industri,2,23:00:00,5:00:00,12,Tidak,3,Tidak,5,Ya,3.5
+691,Corresponden 691,Universitas 2,Sistem Informasi,4,23:00:00,5:00:00,4,Tidak,3,Tidak,5,Tidak,3.65
+692,Corresponden 692,Universitas 204,Manajemen,8,22:00:00,5:00:00,4,Ya,2,Tidak,1,Ya,3.44
+693,Corresponden 693,Universitas 70,Psikologi,2,23:00:00,6:00:00,5,Tidak,1,Ya,3,Tidak,3.34
+694,Corresponden 694,Universitas 18,Pendidikan Seni Musik,2,0:00:00,4:00:00,3,Tidak,2,Tidak,7,Ya,3.94
+695,Corresponden 695,Universitas 33,Ilmu komunikasi,6,23:00:00,5:00:00,11,Ya,2,Tidak,1,Ya,3.3
+696,Corresponden 696,Universitas 6,Accounting Technology,2,21:00:00,4:00:00,5,Tidak,3,Tidak,5,Tidak,3.67
+697,Corresponden 697,Universitas 14,Sistem Informasi,8,23:00:00,3:00:00,9,Tidak,2,Tidak,1,Ya,3
+698,Corresponden 698,Universitas 61,Rekayasa Minyak Dan Gas,2,22:00:00,7:00:00,6,Tidak,1,Tidak,5,Tidak,2.8
+699,Corresponden 699,Universitas 185,Hukum,5,0:00:00,8:00:00,8,Tidak,3,Ya,5,Tidak,3.3
+700,Corresponden 700,Universitas 6,Akuntansi,4,23:00:00,7:00:00,3,Ya,0,Tidak,3,Ya,3.88
+701,Corresponden 701,Universitas 139,Psikologi,4,22:00:00,7:00:00,8,Ya,3,Tidak,3,Ya,3.5
+702,Corresponden 702,Universitas 27,Ilmu Komunikasi,2,0:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.62
+703,Corresponden 703,Universitas 63,keperawatan,4,0:00:00,4:00:00,8,Tidak,0,Tidak,7,Tidak,3.83
+704,Corresponden 704,Universitas 9,Teknik Informatika,2,0:00:00,6:00:00,6,Ya,2,Tidak,5,Ya,3.53
+705,Corresponden 705,Universitas 24,Teknologi Informasi,2,22:00:00,6:00:00,2,Ya,3,Tidak,1,Ya,3.15
+706,Corresponden 706,Universitas 51,Statistika,2,22:00:00,5:00:00,4,Tidak,1,Tidak,5,Tidak,3.9
+707,Corresponden 707,Universitas 6,Teknik Sipil,4,23:00:00,9:00:00,3,Tidak,1,Tidak,3,Tidak,3.56
+708,Corresponden 708,Universitas 205,Antropologi Budaya,8,23:00:00,5:00:00,6,Ya,1,Tidak,7,Tidak,3.88
+709,Corresponden 709,Universitas 54,Ilmu Komunikasi,8,1:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.76
+710,Corresponden 710,Universitas 179,Manajemen,2,1:00:00,5:00:00,5,Ya,2,Tidak,1,Ya,3.85
+711,Corresponden 711,Universitas 29,Psikologi,2,23:00:00,5:00:00,5,Tidak,2,Tidak,4,Tidak,3.7
+712,Corresponden 712,Universitas 38,Ilmu Komunikasi,2,22:00:00,5:00:00,6,Ya,1,Tidak,9,Ya,3.4
+713,Corresponden 713,Universitas 65,Pendidikan Bahasa Inggris,2,20:00:00,6:00:00,7,Tidak,0,Tidak,9,Tidak,3.59
+714,Corresponden 714,Universitas 62,Teknik Informatika,3,2:00:00,6:00:00,4,Tidak,2,Tidak,5,Tidak,3.64
+715,Corresponden 715,Universitas 9,Ilmu Komunikasi,2,0:00:00,5:00:00,5,Ya,3,Tidak,9,Ya,3.74
+716,Corresponden 716,Universitas 33,Farmasi,4,23:00:00,5:00:00,6,Tidak,1,Tidak,3,Tidak,3.88
+717,Corresponden 717,Universitas 18,Pendidikan Kimia,2,23:00:00,5:00:00,4,Tidak,1,Tidak,3,Tidak,3.64
+718,Corresponden 718,Universitas 134,Teknik Elektro,8,21:00:00,5:00:00,7,Ya,2,Tidak,3,Ya,3.24
+719,Corresponden 719,Universitas 77,Teknik Informatika,2,22:00:00,4:00:00,4,Ya,2,Tidak,7,Ya,3.74
+720,Corresponden 720,Universitas 206,Psikologi,2,23:00:00,5:00:00,5,Tidak,2,Tidak,3,Tidak,3.9
+721,Corresponden 721,Universitas 103,Kedokteran,2,0:00:00,4:00:00,2,Ya,0,Tidak,9,Tidak,3.75
